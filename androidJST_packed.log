@@ -780,56 +780,88 @@ Debug|Encoding resource 1...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 02, G 0C, B 06
-Trace|Palette item 2: R 0F, G 62, B 31
-Trace|Palette item 3: R 17, G 96, B 4A
-Trace|Palette item 4: R 1F, G C8, B 64
-Trace|Palette item 5: R 21, G D7, B 6B
-Trace|Palette item 6: R 1C, G B7, B 5B
-Trace|Palette item 7: R 14, G 81, B 40
-Trace|Palette item 8: R 0A, G 40, B 20
-Trace|Palette item 9: R 0B, G 47, B 23
-Trace|Palette item 10: R 1F, G C7, B 63
-Trace|Palette item 11: R 23, G E3, B 71
-Trace|Palette item 12: R 18, G 9E, B 4E
-Trace|Palette item 13: R 0B, G 45, B 22
-Trace|Palette item 14: R 1C, G B8, B 5C
-Trace|Palette item 15: R 01, G 04, B 02
-Trace|Palette item 16: R 03, G 11, B 08
-Trace|Palette item 17: R 21, G D8, B 6C
-Trace|Palette item 18: R 12, G 74, B 3A
-Trace|Palette item 19: R 10, G 66, B 33
-Trace|Palette item 20: R 23, G E1, B 70
-Trace|Palette item 21: R 22, G DC, B 6D
-Trace|Palette item 22: R 02, G 0B, B 05
-Trace|Palette item 23: R 19, G 9F, B 4F
-Trace|Palette item 24: R 11, G 6D, B 36
-Trace|Palette item 25: R 04, G 19, B 0C
-Trace|Palette item 26: R 08, G 35, B 1B
-Trace|Palette item 27: R 1D, G B9, B 5C
-Trace|Palette item 28: R 0A, G 43, B 21
-Trace|Palette item 29: R 1E, G C6, B 62
-Trace|Palette item 30: R 14, G 80, B 40
-Trace|Palette item 31: R 02, G 0E, B 07
-Trace|Palette item 32: R 10, G 65, B 32
-Trace|Palette item 33: R 21, G D9, B 6C
-Trace|Palette item 34: R 19, G A4, B 52
-Trace|Palette item 35: R 13, G 7A, B 3D
-Trace|Palette item 36: R 08, G 32, B 19
-Trace|Palette item 37: R 17, G 97, B 4B
-Trace|Palette item 38: R 14, G 82, B 41
-Trace|Palette item 39: R 08, G 34, B 1A
-Trace|Palette item 40: R 18, G 99, B 4C
-Trace|Palette item 41: R 14, G 7F, B 3F
-Trace|Palette item 42: R 08, G 35, B 1A
-Trace|Palette item 43: R 18, G 9A, B 4D
-Trace|Bits per pixel Estimated:6, Used:8
+Trace|Palette item 1: R 00, G 01, B 01
+Trace|Palette item 2: R 05, G 1F, B 0F
+Trace|Palette item 3: R 12, G 78, B 3C
+Trace|Palette item 4: R 1A, G AC, B 55
+Trace|Palette item 5: R 21, G D3, B 6A
+Trace|Palette item 6: R 21, G D9, B 6C
+Trace|Palette item 7: R 21, G DA, B 6D
+Trace|Palette item 8: R 1F, G C9, B 64
+Trace|Palette item 9: R 17, G 99, B 4B
+Trace|Palette item 10: R 0D, G 58, B 2C
+Trace|Palette item 11: R 02, G 0D, B 06
+Trace|Palette item 12: R 01, G 08, B 03
+Trace|Palette item 13: R 10, G 66, B 32
+Trace|Palette item 14: R 23, G DF, B 6F
+Trace|Palette item 15: R 24, G E9, B 75
+Trace|Palette item 16: R 23, G E5, B 72
+Trace|Palette item 17: R 23, G E4, B 71
+Trace|Palette item 18: R 23, G E3, B 71
+Trace|Palette item 19: R 25, G EF, B 77
+Trace|Palette item 20: R 1D, G C1, B 60
+Trace|Palette item 21: R 06, G 26, B 14
+Trace|Palette item 22: R 00, G 03, B 01
+Trace|Palette item 23: R 0F, G 62, B 31
+Trace|Palette item 24: R 26, G F7, B 7B
+Trace|Palette item 25: R 24, G E9, B 74
+Trace|Palette item 26: R 21, G D8, B 6B
+Trace|Palette item 27: R 04, G 1A, B 0D
+Trace|Palette item 28: R 05, G 1E, B 0E
+Trace|Palette item 29: R 25, G EE, B 77
+Trace|Palette item 30: R 23, G E4, B 72
+Trace|Palette item 31: R 24, G ED, B 77
+Trace|Palette item 32: R 17, G 94, B 4A
+Trace|Palette item 33: R 00, G 04, B 01
+Trace|Palette item 34: R 12, G 76, B 3B
+Trace|Palette item 35: R 24, G EA, B 75
+Trace|Palette item 36: R 23, G E0, B 70
+Trace|Palette item 37: R 20, G CF, B 68
+Trace|Palette item 38: R 1F, G C8, B 64
+Trace|Palette item 39: R 1F, G CB, B 65
+Trace|Palette item 40: R 25, G F1, B 77
+Trace|Palette item 41: R 04, G 17, B 0C
+Trace|Palette item 42: R 1A, G AB, B 55
+Trace|Palette item 43: R 24, G E6, B 73
+Trace|Palette item 44: R 24, G E5, B 73
+Trace|Palette item 45: R 1B, G AE, B 56
+Trace|Palette item 46: R 06, G 27, B 13
+Trace|Palette item 47: R 01, G 05, B 03
+Trace|Palette item 48: R 10, G 66, B 33
+Trace|Palette item 49: R 20, G D3, B 69
+Trace|Palette item 50: R 23, G E6, B 73
+Trace|Palette item 51: R 24, G EC, B 76
+Trace|Palette item 52: R 0C, G 50, B 28
+Trace|Palette item 53: R 1F, G CE, B 66
+Trace|Palette item 54: R 23, G E7, B 72
+Trace|Palette item 55: R 08, G 35, B 1B
+Trace|Palette item 56: R 15, G 86, B 43
+Trace|Palette item 57: R 11, G 6F, B 37
+Trace|Palette item 58: R 21, G DB, B 6D
+Trace|Palette item 59: R 24, G E8, B 73
+Trace|Palette item 60: R 1C, G B5, B 5B
+Trace|Palette item 61: R 01, G 09, B 06
+Trace|Palette item 62: R 0F, G 61, B 30
+Trace|Palette item 63: R 14, G 81, B 40
+Trace|Palette item 64: R 21, G D8, B 6C
+Trace|Palette item 65: R 1C, G B7, B 5B
+Trace|Palette item 66: R 02, G 0E, B 07
+Trace|Palette item 67: R 0E, G 5C, B 2E
+Trace|Palette item 68: R 21, G D6, B 6A
+Trace|Palette item 69: R 14, G 84, B 42
+Trace|Palette item 70: R 21, G D7, B 6B
+Trace|Palette item 71: R 1C, G B8, B 5C
+Trace|Palette item 72: R 02, G 10, B 08
+Trace|Palette item 73: R 0F, G 60, B 2F
+Trace|Palette item 74: R 21, G D6, B 6B
+Trace|Palette item 75: R 0F, G 60, B 30
+Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
-Trace|Width: 17, Height: 33, RowLength: 17
-Trace|BPP: 8, PaletteColors: 44, Transaparency: 0
+Trace|Width: 16, Height: 32, RowLength: 16
+Trace|BPP: 8, PaletteColors: 76, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 2 offset is 30081...
+Trace|Resource 2 offset is 30160...
 Debug|Encoding resource 2...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -872,7 +904,7 @@ Trace|Width: 11, Height: 32, RowLength: 11
 Trace|BPP: 8, PaletteColors: 33, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 3 offset is 30581...
+Trace|Resource 3 offset is 30660...
 Debug|Encoding resource 3...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -970,586 +1002,697 @@ Trace|Width: 18, Height: 32, RowLength: 18
 Trace|BPP: 8, PaletteColors: 88, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 4 offset is 31525...
+Trace|Resource 4 offset is 31604...
 Debug|Encoding resource 4...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 02, G 0B, B 05
-Trace|Palette item 2: R 0A, G 3F, B 1F
+Trace|Palette item 1: R 00, G 04, B 02
+Trace|Palette item 2: R 07, G 32, B 19
 Trace|Palette item 3: R 16, G 8E, B 47
-Trace|Palette item 4: R 1C, G B6, B 5B
-Trace|Palette item 5: R 21, G D3, B 69
-Trace|Palette item 6: R 21, G D8, B 6C
-Trace|Palette item 7: R 1F, G CC, B 65
-Trace|Palette item 8: R 18, G 9E, B 4F
-Trace|Palette item 9: R 0C, G 4C, B 26
-Trace|Palette item 10: R 02, G 0D, B 07
-Trace|Palette item 11: R 05, G 1E, B 0F
-Trace|Palette item 12: R 23, G E3, B 71
-Trace|Palette item 13: R 1B, G AD, B 56
-Trace|Palette item 14: R 06, G 25, B 13
-Trace|Palette item 15: R 05, G 1F, B 10
-Trace|Palette item 16: R 1C, G B7, B 5B
-Trace|Palette item 17: R 1E, G C0, B 60
-Trace|Palette item 18: R 05, G 24, B 12
-Trace|Palette item 19: R 01, G 07, B 04
-Trace|Palette item 20: R 17, G 96, B 4B
-Trace|Palette item 21: R 19, G A5, B 52
-Trace|Palette item 22: R 02, G 0C, B 06
-Trace|Palette item 23: R 08, G 36, B 1B
-Trace|Palette item 24: R 1D, G BF, B 5F
-Trace|Palette item 25: R 18, G 9E, B 4E
-Trace|Palette item 26: R 1D, G BA, B 5D
-Trace|Palette item 27: R 0C, G 4B, B 25
-Trace|Palette item 28: R 00, G 01, B 00
-Trace|Palette item 29: R 01, G 04, B 02
-Trace|Palette item 30: R 13, G 7C, B 3E
-Trace|Palette item 31: R 23, G E1, B 70
-Trace|Palette item 32: R 18, G 9A, B 4D
-Trace|Palette item 33: R 04, G 1C, B 0E
-Trace|Palette item 34: R 03, G 16, B 0B
-Trace|Palette item 35: R 16, G 91, B 48
-Trace|Palette item 36: R 18, G 99, B 4C
-Trace|Palette item 37: R 01, G 08, B 04
-Trace|Palette item 38: R 02, G 0F, B 08
-Trace|Palette item 39: R 1D, G BE, B 5E
-Trace|Palette item 40: R 1D, G BC, B 5E
-Trace|Palette item 41: R 19, G A3, B 51
-Trace|Palette item 42: R 1F, G C9, B 64
-Trace|Palette item 43: R 03, G 13, B 09
-Trace|Palette item 44: R 21, G D5, B 6A
-Trace|Palette item 45: R 21, G D4, B 69
-Trace|Palette item 46: R 21, G D7, B 6B
-Trace|Palette item 47: R 10, G 6A, B 35
-Trace|Palette item 48: R 0E, G 5C, B 2E
-Trace|Palette item 49: R 22, G DF, B 6F
-Trace|Palette item 50: R 22, G DE, B 6E
-Trace|Palette item 51: R 06, G 24, B 12
-Trace|Palette item 52: R 07, G 30, B 18
-Trace|Palette item 53: R 09, G 39, B 1C
-Trace|Palette item 54: R 09, G 3C, B 1E
-Trace|Palette item 55: R 02, G 0E, B 07
-Trace|Palette item 56: R 0B, G 48, B 24
-Trace|Palette item 57: R 07, G 2D, B 17
-Trace|Palette item 58: R 0B, G 47, B 23
-Trace|Palette item 59: R 21, G D6, B 6A
-Trace|Palette item 60: R 22, G DC, B 6D
-Trace|Palette item 61: R 11, G 6E, B 37
-Trace|Palette item 62: R 23, G E0, B 70
-Trace|Palette item 63: R 20, G CE, B 66
-Trace|Palette item 64: R 03, G 14, B 0A
-Trace|Palette item 65: R 1D, G B9, B 5C
-Trace|Palette item 66: R 18, G 9C, B 4E
-Trace|Palette item 67: R 01, G 09, B 04
-Trace|Palette item 68: R 06, G 28, B 14
-Trace|Palette item 69: R 1A, G AB, B 55
-Trace|Palette item 70: R 0B, G 49, B 24
-Trace|Palette item 71: R 01, G 06, B 03
-Trace|Palette item 72: R 15, G 86, B 42
-Trace|Palette item 73: R 14, G 82, B 41
-Trace|Palette item 74: R 1A, G AC, B 56
-Trace|Palette item 75: R 0F, G 64, B 32
-Trace|Palette item 76: R 1A, G A9, B 54
-Trace|Palette item 77: R 15, G 86, B 43
-Trace|Palette item 78: R 1E, G C1, B 60
-Trace|Palette item 79: R 06, G 2A, B 15
-Trace|Palette item 80: R 04, G 1B, B 0D
-Trace|Palette item 81: R 12, G 75, B 3A
-Trace|Palette item 82: R 1B, G B0, B 58
-Trace|Palette item 83: R 03, G 11, B 08
-Trace|Palette item 84: R 0C, G 4E, B 27
-Trace|Palette item 85: R 11, G 6D, B 36
-Trace|Palette item 86: R 15, G 88, B 44
-Trace|Palette item 87: R 08, G 32, B 19
-Trace|Palette item 88: R 09, G 38, B 1C
-Trace|Palette item 89: R 0C, G 4D, B 27
-Trace|Palette item 90: R 0B, G 45, B 22
-Trace|Palette item 91: R 09, G 3A, B 1D
-Trace|Palette item 92: R 1E, G BF, B 5F
-Trace|Palette item 93: R 1B, G AE, B 57
-Trace|Palette item 94: R 1C, G B6, B 5A
-Trace|Palette item 95: R 1E, G C4, B 61
-Trace|Palette item 96: R 02, G 10, B 08
-Trace|Palette item 97: R 1E, G C6, B 62
-Trace|Palette item 98: R 1B, G AF, B 57
-Trace|Palette item 99: R 19, G A2, B 51
-Trace|Palette item 100: R 20, G CF, B 67
-Trace|Palette item 101: R 07, G 2C, B 16
-Trace|Palette item 102: R 0D, G 52, B 29
-Trace|Palette item 103: R 13, G 78, B 3C
-Trace|Palette item 104: R 13, G 7D, B 3E
-Trace|Palette item 105: R 1A, G A8, B 54
-Trace|Palette item 106: R 13, G 7B, B 3D
-Trace|Palette item 107: R 21, G D9, B 6C
-Trace|Palette item 108: R 10, G 6B, B 35
-Trace|Palette item 109: R 18, G 9D, B 4E
-Trace|Palette item 110: R 0A, G 40, B 20
-Trace|Palette item 111: R 1C, G B8, B 5C
-Trace|Palette item 112: R 19, G A0, B 50
-Trace|Palette item 113: R 1E, G C2, B 61
-Trace|Palette item 114: R 0A, G 43, B 21
-Trace|Palette item 115: R 0A, G 3E, B 1F
-Trace|Palette item 116: R 10, G 68, B 34
-Trace|Palette item 117: R 0E, G 5D, B 2F
-Trace|Palette item 118: R 00, G 03, B 01
-Trace|Palette item 119: R 0C, G 50, B 28
-Trace|Palette item 120: R 1F, G CA, B 65
-Trace|Palette item 121: R 00, G 02, B 01
-Trace|Palette item 122: R 04, G 19, B 0C
-Trace|Palette item 123: R 1F, G C8, B 64
-Trace|Palette item 124: R 0E, G 5D, B 2E
-Trace|Palette item 125: R 04, G 18, B 0C
+Trace|Palette item 4: R 1C, G BB, B 5D
+Trace|Palette item 5: R 22, G DB, B 6D
+Trace|Palette item 6: R 23, G E3, B 71
+Trace|Palette item 7: R 20, G D3, B 69
+Trace|Palette item 8: R 18, G 9F, B 4F
+Trace|Palette item 9: R 0B, G 43, B 21
+Trace|Palette item 10: R 01, G 0A, B 05
+Trace|Palette item 11: R 03, G 16, B 0B
+Trace|Palette item 12: R 17, G 98, B 4B
+Trace|Palette item 13: R 26, G F6, B 7B
+Trace|Palette item 14: R 23, G E6, B 72
+Trace|Palette item 15: R 23, G E4, B 72
+Trace|Palette item 16: R 23, G E4, B 71
+Trace|Palette item 17: R 23, G E5, B 72
+Trace|Palette item 18: R 26, G F3, B 7A
+Trace|Palette item 19: R 1A, G AA, B 54
+Trace|Palette item 20: R 04, G 1B, B 0D
+Trace|Palette item 21: R 1B, G B0, B 57
+Trace|Palette item 22: R 25, G F1, B 78
+Trace|Palette item 23: R 23, G E2, B 71
+Trace|Palette item 24: R 24, G EE, B 77
+Trace|Palette item 25: R 1E, G BD, B 5E
+Trace|Palette item 26: R 15, G 84, B 42
+Trace|Palette item 27: R 26, G F4, B 79
+Trace|Palette item 28: R 17, G 94, B 49
+Trace|Palette item 29: R 05, G 24, B 12
+Trace|Palette item 30: R 25, G EA, B 74
+Trace|Palette item 31: R 23, G E2, B 70
+Trace|Palette item 32: R 1F, G C8, B 64
+Trace|Palette item 33: R 20, G D2, B 68
+Trace|Palette item 34: R 25, G F5, B 7A
+Trace|Palette item 35: R 08, G 37, B 1B
+Trace|Palette item 36: R 11, G 71, B 38
+Trace|Palette item 37: R 25, G EF, B 76
+Trace|Palette item 38: R 1C, G B3, B 59
+Trace|Palette item 39: R 07, G 2E, B 17
+Trace|Palette item 40: R 1B, G AD, B 56
+Trace|Palette item 41: R 24, G EB, B 75
+Trace|Palette item 42: R 17, G 90, B 48
+Trace|Palette item 43: R 24, G EB, B 74
+Trace|Palette item 44: R 24, G E9, B 74
+Trace|Palette item 45: R 05, G 22, B 11
+Trace|Palette item 46: R 1C, G B2, B 58
+Trace|Palette item 47: R 24, G E7, B 73
+Trace|Palette item 48: R 24, G E6, B 73
+Trace|Palette item 49: R 1F, G C9, B 64
+Trace|Palette item 50: R 1F, G CD, B 66
+Trace|Palette item 51: R 21, G D9, B 6C
+Trace|Palette item 52: R 21, G D6, B 6B
+Trace|Palette item 53: R 11, G 6F, B 37
+Trace|Palette item 54: R 22, G DC, B 6D
+Trace|Palette item 55: R 24, G E6, B 72
+Trace|Palette item 56: R 0E, G 5E, B 2F
+Trace|Palette item 57: R 11, G 6C, B 35
+Trace|Palette item 58: R 10, G 64, B 32
+Trace|Palette item 59: R 11, G 6A, B 35
+Trace|Palette item 60: R 06, G 26, B 14
+Trace|Palette item 61: R 0D, G 51, B 28
+Trace|Palette item 62: R 21, G D2, B 68
+Trace|Palette item 63: R 24, G E9, B 73
+Trace|Palette item 64: R 05, G 20, B 0F
+Trace|Palette item 65: R 0C, G 4E, B 27
+Trace|Palette item 66: R 20, G D1, B 68
+Trace|Palette item 67: R 24, G E8, B 73
+Trace|Palette item 68: R 0F, G 67, B 34
+Trace|Palette item 69: R 22, G D9, B 6B
+Trace|Palette item 70: R 22, G DE, B 6F
+Trace|Palette item 71: R 19, G A4, B 52
+Trace|Palette item 72: R 23, G E8, B 73
+Trace|Palette item 73: R 1C, G B5, B 5B
+Trace|Palette item 74: R 26, G F4, B 7A
+Trace|Palette item 75: R 0F, G 61, B 30
+Trace|Palette item 76: R 17, G 92, B 49
+Trace|Palette item 77: R 23, G E0, B 70
+Trace|Palette item 78: R 26, G F6, B 7A
+Trace|Palette item 79: R 1D, G BC, B 5E
+Trace|Palette item 80: R 1B, G B0, B 58
+Trace|Palette item 81: R 28, G FF, B 80
+Trace|Palette item 82: R 23, G E6, B 73
+Trace|Palette item 83: R 23, G E7, B 73
+Trace|Palette item 84: R 19, G A2, B 51
+Trace|Palette item 85: R 25, G EF, B 77
+Trace|Palette item 86: R 25, G ED, B 76
+Trace|Palette item 87: R 1B, G AE, B 56
+Trace|Palette item 88: R 26, G F8, B 7C
+Trace|Palette item 89: R 1E, G BE, B 5F
+Trace|Palette item 90: R 25, G EB, B 76
+Trace|Palette item 91: R 16, G 95, B 4A
+Trace|Palette item 92: R 22, G E2, B 71
+Trace|Palette item 93: R 1A, G AC, B 55
+Trace|Palette item 94: R 1E, G C6, B 63
+Trace|Palette item 95: R 14, G 82, B 41
+Trace|Palette item 96: R 16, G 8A, B 44
+Trace|Palette item 97: R 12, G 72, B 39
+Trace|Palette item 98: R 1E, G C2, B 61
+Trace|Palette item 99: R 1E, G C0, B 60
+Trace|Palette item 100: R 09, G 39, B 1C
+Trace|Palette item 101: R 17, G 97, B 4B
+Trace|Palette item 102: R 09, G 3E, B 1F
+Trace|Palette item 103: R 0F, G 67, B 33
+Trace|Palette item 104: R 21, G DA, B 6C
+Trace|Palette item 105: R 11, G 6D, B 37
+Trace|Palette item 106: R 24, G EA, B 75
+Trace|Palette item 107: R 18, G 95, B 4B
+Trace|Palette item 108: R 1C, G B6, B 5B
+Trace|Palette item 109: R 07, G 2A, B 15
+Trace|Palette item 110: R 25, G F0, B 77
+Trace|Palette item 111: R 0A, G 40, B 1F
+Trace|Palette item 112: R 24, G E4, B 72
+Trace|Palette item 113: R 24, G EA, B 74
+Trace|Palette item 114: R 22, G DF, B 6F
+Trace|Palette item 115: R 20, G CE, B 67
+Trace|Palette item 116: R 21, G D4, B 69
+Trace|Palette item 117: R 24, G E7, B 74
+Trace|Palette item 118: R 24, G EF, B 78
+Trace|Palette item 119: R 0B, G 47, B 23
+Trace|Palette item 120: R 20, G D2, B 6A
+Trace|Palette item 121: R 25, G EE, B 76
+Trace|Palette item 122: R 1F, G CC, B 66
+Trace|Palette item 123: R 0D, G 56, B 2B
+Trace|Palette item 124: R 1F, G CB, B 65
+Trace|Palette item 125: R 22, G DE, B 6E
+Trace|Palette item 126: R 22, G E0, B 6F
+Trace|Palette item 127: R 19, G A0, B 4F
 Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 126, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 5 offset is 32621...
+Trace|Resource 5 offset is 32708...
 Debug|Encoding resource 5...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 00, G 03, B 01
-Trace|Palette item 2: R 18, G 9A, B 4D
-Trace|Palette item 3: R 21, G D7, B 6B
-Trace|Palette item 4: R 20, G CF, B 67
-Trace|Palette item 5: R 20, G CE, B 66
-Trace|Palette item 6: R 16, G 8E, B 47
-Trace|Palette item 7: R 01, G 04, B 02
-Trace|Palette item 8: R 0B, G 45, B 23
-Trace|Palette item 9: R 22, G DC, B 6D
-Trace|Palette item 10: R 23, G E3, B 71
-Trace|Palette item 11: R 18, G 9D, B 4E
-Trace|Palette item 12: R 01, G 08, B 04
-Trace|Palette item 13: R 18, G 9B, B 4D
-Trace|Palette item 14: R 17, G 96, B 4B
-Trace|Palette item 15: R 01, G 05, B 03
-Trace|Palette item 16: R 07, G 30, B 18
-Trace|Palette item 17: R 21, G D8, B 6C
-Trace|Palette item 18: R 22, G DD, B 6E
-Trace|Palette item 19: R 23, G E2, B 71
-Trace|Palette item 20: R 16, G 90, B 48
-Trace|Palette item 21: R 1E, G C4, B 61
-Trace|Palette item 22: R 17, G 94, B 4A
-Trace|Palette item 23: R 05, G 21, B 10
-Trace|Palette item 24: R 21, G D5, B 6A
-Trace|Palette item 25: R 10, G 65, B 32
-Trace|Palette item 26: R 0E, G 5D, B 2E
-Trace|Palette item 27: R 14, G 83, B 41
-Trace|Palette item 28: R 1F, G CB, B 65
-Trace|Palette item 29: R 03, G 12, B 09
-Trace|Palette item 30: R 10, G 65, B 33
-Trace|Palette item 31: R 05, G 20, B 10
-Trace|Palette item 32: R 1F, G CA, B 65
-Trace|Palette item 33: R 12, G 76, B 3B
-Trace|Palette item 34: R 11, G 6E, B 37
-Trace|Palette item 35: R 06, G 29, B 14
-Trace|Palette item 36: R 13, G 7A, B 3D
-Trace|Palette item 37: R 04, G 19, B 0C
-Trace|Palette item 38: R 1D, G BB, B 5D
-Trace|Palette item 39: R 00, G 02, B 01
-Trace|Palette item 40: R 13, G 79, B 3C
-Trace|Palette item 41: R 0D, G 57, B 2B
-Trace|Palette item 42: R 23, G E0, B 70
-Trace|Palette item 43: R 09, G 3A, B 1D
-Trace|Palette item 44: R 00, G 01, B 00
-Trace|Palette item 45: R 02, G 0C, B 06
-Trace|Palette item 46: R 1B, G B1, B 58
-Trace|Palette item 47: R 18, G 9E, B 4F
-Trace|Palette item 48: R 02, G 0B, B 05
-Trace|Palette item 49: R 0B, G 45, B 22
-Trace|Palette item 50: R 0B, G 4A, B 25
-Trace|Palette item 51: R 19, G A2, B 51
-Trace|Palette item 52: R 1B, G AF, B 57
-Trace|Palette item 53: R 09, G 38, B 1C
-Trace|Palette item 54: R 23, G E1, B 70
-Trace|Palette item 55: R 0E, G 58, B 2C
-Trace|Palette item 56: R 16, G 8F, B 47
-Trace|Palette item 57: R 1E, G BF, B 5F
-Trace|Palette item 58: R 07, G 2F, B 17
-Trace|Palette item 59: R 0E, G 5C, B 2E
-Trace|Palette item 60: R 12, G 74, B 3A
-Trace|Palette item 61: R 12, G 77, B 3B
-Trace|Palette item 62: R 1F, G C8, B 64
-Trace|Palette item 63: R 02, G 0A, B 05
-Trace|Palette item 64: R 05, G 22, B 11
-Trace|Palette item 65: R 05, G 1D, B 0F
-Trace|Palette item 66: R 04, G 1A, B 0D
-Trace|Palette item 67: R 03, G 13, B 09
-Trace|Palette item 68: R 15, G 86, B 43
-Trace|Palette item 69: R 19, G A3, B 51
-Trace|Palette item 70: R 03, G 11, B 08
-Trace|Palette item 71: R 03, G 16, B 0B
-Trace|Palette item 72: R 04, G 17, B 0C
-Trace|Palette item 73: R 15, G 88, B 44
-Trace|Palette item 74: R 22, G DA, B 6D
-Trace|Palette item 75: R 1F, G C7, B 63
-Trace|Palette item 76: R 20, G CD, B 66
-Trace|Palette item 77: R 1F, G CC, B 65
-Trace|Palette item 78: R 21, G D9, B 6C
-Trace|Palette item 79: R 1F, G C9, B 64
-Trace|Palette item 80: R 17, G 92, B 49
-Trace|Palette item 81: R 1A, G A6, B 53
-Trace|Palette item 82: R 14, G 84, B 42
-Trace|Palette item 83: R 1B, G B0, B 58
-Trace|Palette item 84: R 0C, G 4E, B 27
-Trace|Palette item 85: R 17, G 95, B 4A
-Trace|Palette item 86: R 13, G 7E, B 3F
-Trace|Palette item 87: R 14, G 80, B 40
-Trace|Palette item 88: R 14, G 7F, B 3F
-Trace|Palette item 89: R 1E, G C2, B 61
-Trace|Palette item 90: R 0E, G 5D, B 2F
-Trace|Palette item 91: R 16, G 8D, B 46
-Trace|Palette item 92: R 02, G 0D, B 07
-Trace|Palette item 93: R 1A, G A9, B 54
-Trace|Palette item 94: R 17, G 98, B 4C
+Trace|Palette item 1: R 01, G 03, B 02
+Trace|Palette item 2: R 16, G 8A, B 45
+Trace|Palette item 3: R 1D, G BF, B 5F
+Trace|Palette item 4: R 1C, G B9, B 5C
+Trace|Palette item 5: R 1C, G B7, B 5B
+Trace|Palette item 6: R 1E, G C5, B 62
+Trace|Palette item 7: R 18, G 9D, B 4E
+Trace|Palette item 8: R 06, G 26, B 13
+Trace|Palette item 9: R 0A, G 41, B 21
+Trace|Palette item 10: R 21, G D8, B 6A
+Trace|Palette item 11: R 23, G E5, B 72
+Trace|Palette item 12: R 23, G E4, B 71
+Trace|Palette item 13: R 23, G E3, B 71
+Trace|Palette item 14: R 24, G EC, B 76
+Trace|Palette item 15: R 1D, G C1, B 60
+Trace|Palette item 16: R 08, G 32, B 19
+Trace|Palette item 17: R 01, G 09, B 04
+Trace|Palette item 18: R 17, G 92, B 49
+Trace|Palette item 19: R 23, G E4, B 72
+Trace|Palette item 20: R 24, G EB, B 75
+Trace|Palette item 21: R 1C, G BB, B 5D
+Trace|Palette item 22: R 07, G 2F, B 18
+Trace|Palette item 23: R 07, G 2E, B 18
+Trace|Palette item 24: R 21, G D6, B 6B
+Trace|Palette item 25: R 24, G E6, B 73
+Trace|Palette item 26: R 23, G E7, B 73
+Trace|Palette item 27: R 23, G E2, B 71
+Trace|Palette item 28: R 02, G 0D, B 06
+Trace|Palette item 29: R 14, G 82, B 41
+Trace|Palette item 30: R 24, G E9, B 74
+Trace|Palette item 31: R 21, G D9, B 6C
+Trace|Palette item 32: R 1B, G B0, B 58
+Trace|Palette item 33: R 22, G DC, B 6F
+Trace|Palette item 34: R 20, G D1, B 68
+Trace|Palette item 35: R 23, G E6, B 73
+Trace|Palette item 36: R 16, G 90, B 47
+Trace|Palette item 37: R 10, G 67, B 33
+Trace|Palette item 38: R 12, G 72, B 39
+Trace|Palette item 39: R 24, G ED, B 76
+Trace|Palette item 40: R 23, G E3, B 72
+Trace|Palette item 41: R 0D, G 51, B 28
+Trace|Palette item 42: R 07, G 2A, B 15
+Trace|Palette item 43: R 23, G E1, B 70
+Trace|Palette item 44: R 19, G A8, B 53
+Trace|Palette item 45: R 0F, G 61, B 31
+Trace|Palette item 46: R 21, G D8, B 6C
+Trace|Palette item 47: R 24, G EC, B 75
+Trace|Palette item 48: R 21, G DC, B 6D
+Trace|Palette item 49: R 11, G 6D, B 36
+Trace|Palette item 50: R 1B, G B2, B 58
+Trace|Palette item 51: R 25, G ED, B 76
+Trace|Palette item 52: R 1B, G B3, B 58
+Trace|Palette item 53: R 22, G D9, B 6C
+Trace|Palette item 54: R 0D, G 59, B 2C
+Trace|Palette item 55: R 24, G E6, B 72
+Trace|Palette item 56: R 24, G E7, B 73
+Trace|Palette item 57: R 22, G DB, B 6D
+Trace|Palette item 58: R 0F, G 5F, B 2F
+Trace|Palette item 59: R 11, G 6C, B 36
+Trace|Palette item 60: R 05, G 1F, B 10
+Trace|Palette item 61: R 18, G A0, B 4F
+Trace|Palette item 62: R 25, G F2, B 79
+Trace|Palette item 63: R 1D, G BD, B 5F
+Trace|Palette item 64: R 04, G 1A, B 0D
+Trace|Palette item 65: R 11, G 70, B 38
+Trace|Palette item 66: R 03, G 16, B 0B
+Trace|Palette item 67: R 26, G F7, B 7B
+Trace|Palette item 68: R 24, G E5, B 72
+Trace|Palette item 69: R 1E, G C2, B 61
+Trace|Palette item 70: R 05, G 22, B 11
+Trace|Palette item 71: R 0A, G 44, B 22
+Trace|Palette item 72: R 22, G DA, B 6D
+Trace|Palette item 73: R 15, G 86, B 43
+Trace|Palette item 74: R 24, G E8, B 74
+Trace|Palette item 75: R 1E, G C3, B 61
+Trace|Palette item 76: R 09, G 3B, B 1E
+Trace|Palette item 77: R 25, G EE, B 77
+Trace|Palette item 78: R 23, G DF, B 6F
+Trace|Palette item 79: R 11, G 6D, B 37
+Trace|Palette item 80: R 13, G 79, B 3C
+Trace|Palette item 81: R 25, G F3, B 78
+Trace|Palette item 82: R 1E, G C4, B 61
+Trace|Palette item 83: R 1C, G B8, B 5C
+Trace|Palette item 84: R 06, G 2C, B 16
+Trace|Palette item 85: R 19, G A3, B 52
+Trace|Palette item 86: R 25, G F1, B 78
+Trace|Palette item 87: R 04, G 20, B 10
+Trace|Palette item 88: R 24, G EA, B 74
+Trace|Palette item 89: R 09, G 37, B 1C
+Trace|Palette item 90: R 1B, G AE, B 57
+Trace|Palette item 91: R 25, G EE, B 76
+Trace|Palette item 92: R 20, G CF, B 67
+Trace|Palette item 93: R 1C, G B5, B 59
+Trace|Palette item 94: R 1D, G BB, B 5D
+Trace|Palette item 95: R 1E, G C1, B 60
+Trace|Palette item 96: R 1D, G C0, B 5F
+Trace|Palette item 97: R 1D, G BB, B 5E
+Trace|Palette item 98: R 23, G E1, B 71
+Trace|Palette item 99: R 23, G DE, B 6E
+Trace|Palette item 100: R 1E, G BF, B 5F
+Trace|Palette item 101: R 18, G 9F, B 4F
+Trace|Palette item 102: R 1A, G AB, B 56
+Trace|Palette item 103: R 23, G E2, B 70
+Trace|Palette item 104: R 24, G E9, B 73
+Trace|Palette item 105: R 1E, G BF, B 60
+Trace|Palette item 106: R 1D, G BE, B 5E
+Trace|Palette item 107: R 26, G F5, B 7A
+Trace|Palette item 108: R 26, G F3, B 79
+Trace|Palette item 109: R 1F, G CC, B 66
+Trace|Palette item 110: R 15, G 8C, B 46
+Trace|Palette item 111: R 19, G A4, B 52
+Trace|Palette item 112: R 1A, G A8, B 54
+Trace|Palette item 113: R 1A, G A7, B 53
+Trace|Palette item 114: R 1A, G AA, B 55
+Trace|Palette item 115: R 21, G DA, B 6D
+Trace|Palette item 116: R 1B, G B2, B 59
+Trace|Palette item 117: R 17, G 96, B 4B
+Trace|Palette item 118: R 18, G 9B, B 4D
+Trace|Palette item 119: R 22, G DE, B 6F
+Trace|Palette item 120: R 1D, G BA, B 5C
+Trace|Palette item 121: R 22, G DE, B 6E
+Trace|Palette item 122: R 1C, G BA, B 5C
+Trace|Palette item 123: R 22, G E0, B 6F
+Trace|Palette item 124: R 18, G A1, B 50
+Trace|Palette item 125: R 24, G EA, B 75
+Trace|Palette item 126: R 1E, G C7, B 63
+Trace|Palette item 127: R 08, G 34, B 1A
 Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 95, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 6 offset is 33593...
+Trace|Resource 6 offset is 33812...
 Debug|Encoding resource 6...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 01, G 08, B 04
-Trace|Palette item 2: R 15, G 86, B 42
-Trace|Palette item 3: R 21, G D8, B 6C
-Trace|Palette item 4: R 20, G CE, B 66
-Trace|Palette item 5: R 20, G CF, B 67
-Trace|Palette item 6: R 20, G D1, B 68
-Trace|Palette item 7: R 0E, G 5B, B 2D
-Trace|Palette item 8: R 00, G 01, B 00
-Trace|Palette item 9: R 01, G 09, B 04
-Trace|Palette item 10: R 17, G 93, B 49
-Trace|Palette item 11: R 23, G E3, B 71
-Trace|Palette item 12: R 10, G 66, B 33
-Trace|Palette item 13: R 00, G 03, B 01
-Trace|Palette item 14: R 16, G 91, B 48
-Trace|Palette item 15: R 0F, G 61, B 30
-Trace|Palette item 16: R 00, G 02, B 01
-Trace|Palette item 17: R 10, G 6A, B 35
-Trace|Palette item 18: R 22, G DA, B 6D
-Trace|Palette item 19: R 1F, G C7, B 63
-Trace|Palette item 20: R 1F, G CB, B 65
-Trace|Palette item 21: R 20, G CD, B 66
-Trace|Palette item 22: R 20, G D2, B 69
-Trace|Palette item 23: R 0F, G 62, B 31
-Trace|Palette item 24: R 07, G 2D, B 16
-Trace|Palette item 25: R 08, G 35, B 1A
-Trace|Palette item 26: R 09, G 38, B 1C
-Trace|Palette item 27: R 09, G 39, B 1C
-Trace|Palette item 28: R 0A, G 41, B 20
-Trace|Palette item 29: R 04, G 18, B 0C
-Trace|Palette item 30: R 11, G 6E, B 37
-Trace|Palette item 31: R 13, G 7D, B 3E
-Trace|Palette item 32: R 13, G 7C, B 3E
-Trace|Palette item 33: R 12, G 74, B 3A
-Trace|Palette item 34: R 06, G 24, B 12
-Trace|Palette item 35: R 0C, G 4D, B 26
-Trace|Palette item 36: R 0B, G 4A, B 25
-Trace|Palette item 37: R 05, G 20, B 10
-Trace|Palette item 38: R 23, G E0, B 70
-Trace|Palette item 39: R 0E, G 5C, B 2E
-Trace|Palette item 40: R 1A, G AA, B 55
-Trace|Palette item 41: R 1E, G C5, B 62
-Trace|Palette item 42: R 21, G D7, B 6B
-Trace|Palette item 43: R 21, G D5, B 6A
-Trace|Palette item 44: R 1E, G C3, B 61
-Trace|Palette item 45: R 1B, G AE, B 56
-Trace|Palette item 46: R 0D, G 57, B 2B
-Trace|Palette item 47: R 23, G E2, B 71
-Trace|Palette item 48: R 22, G DB, B 6D
-Trace|Palette item 49: R 21, G D9, B 6C
-Trace|Palette item 50: R 17, G 96, B 4A
-Trace|Palette item 51: R 02, G 0E, B 07
-Trace|Palette item 52: R 17, G 98, B 4C
-Trace|Palette item 53: R 02, G 0D, B 07
-Trace|Palette item 54: R 22, G DF, B 6F
-Trace|Palette item 55: R 0E, G 5A, B 2D
-Trace|Palette item 56: R 17, G 94, B 4A
-Trace|Palette item 57: R 10, G 69, B 34
-Trace|Palette item 58: R 1B, G B1, B 58
-Trace|Palette item 59: R 1D, G B9, B 5C
-Trace|Palette item 60: R 03, G 11, B 08
-Trace|Palette item 61: R 16, G 8E, B 47
-Trace|Palette item 62: R 22, G DC, B 6D
-Trace|Palette item 63: R 1F, G CC, B 65
-Trace|Palette item 64: R 0B, G 46, B 23
-Trace|Palette item 65: R 13, G 7A, B 3D
-Trace|Palette item 66: R 09, G 3A, B 1D
-Trace|Palette item 67: R 0F, G 64, B 32
-Trace|Palette item 68: R 09, G 3D, B 1E
-Trace|Palette item 69: R 1A, G AB, B 55
-Trace|Palette item 70: R 12, G 75, B 3A
-Trace|Palette item 71: R 11, G 6C, B 36
-Trace|Palette item 72: R 23, G E1, B 70
-Trace|Palette item 73: R 16, G 8E, B 46
-Trace|Palette item 74: R 0D, G 55, B 2A
-Trace|Palette item 75: R 18, G 9E, B 4E
-Trace|Palette item 76: R 0D, G 54, B 2A
-Trace|Palette item 77: R 18, G 9A, B 4D
-Trace|Palette item 78: R 06, G 26, B 13
-Trace|Palette item 79: R 0F, G 5E, B 2F
-Trace|Palette item 80: R 15, G 89, B 44
-Trace|Palette item 81: R 08, G 33, B 19
-Trace|Palette item 82: R 1C, G B6, B 5B
-Trace|Palette item 83: R 05, G 1E, B 0F
-Trace|Palette item 84: R 18, G 9B, B 4D
-Trace|Palette item 85: R 10, G 68, B 34
-Trace|Palette item 86: R 07, G 2B, B 15
-Trace|Palette item 87: R 14, G 85, B 42
-Trace|Palette item 88: R 17, G 95, B 4A
-Trace|Palette item 89: R 08, G 32, B 19
-Trace|Palette item 90: R 18, G 9D, B 4E
-Trace|Palette item 91: R 0C, G 4F, B 27
-Trace|Palette item 92: R 06, G 25, B 13
-Trace|Palette item 93: R 09, G 3C, B 1E
-Trace|Palette item 94: R 14, G 82, B 41
-Trace|Palette item 95: R 1B, G AD, B 56
-Trace|Palette item 96: R 02, G 0A, B 05
-Trace|Palette item 97: R 06, G 27, B 13
-Trace|Palette item 98: R 0B, G 45, B 22
-Trace|Palette item 99: R 15, G 87, B 43
-Trace|Palette item 100: R 02, G 0B, B 05
-Trace|Palette item 101: R 16, G 90, B 48
-Trace|Palette item 102: R 17, G 96, B 4B
-Trace|Palette item 103: R 02, G 10, B 08
-Trace|Palette item 104: R 11, G 6D, B 36
-Trace|Palette item 105: R 02, G 0C, B 06
-Trace|Palette item 106: R 01, G 05, B 03
-Trace|Palette item 107: R 08, G 31, B 18
-Trace|Palette item 108: R 14, G 83, B 41
-Trace|Palette item 109: R 1C, G B4, B 5A
-Trace|Palette item 110: R 21, G D3, B 69
-Trace|Palette item 111: R 11, G 70, B 38
+Trace|Palette item 1: R 04, G 17, B 0C
+Trace|Palette item 2: R 17, G 96, B 4B
+Trace|Palette item 3: R 21, G D7, B 6B
+Trace|Palette item 4: R 1F, G C8, B 63
+Trace|Palette item 5: R 1F, G CA, B 64
+Trace|Palette item 6: R 1F, G C9, B 64
+Trace|Palette item 7: R 1F, G CB, B 65
+Trace|Palette item 8: R 21, G DA, B 6D
+Trace|Palette item 9: R 11, G 6E, B 37
+Trace|Palette item 10: R 02, G 0C, B 06
+Trace|Palette item 11: R 04, G 1B, B 0D
+Trace|Palette item 12: R 1A, G A7, B 53
+Trace|Palette item 13: R 24, G E9, B 74
+Trace|Palette item 14: R 23, G E3, B 71
+Trace|Palette item 15: R 24, G EC, B 75
+Trace|Palette item 16: R 14, G 7D, B 3E
+Trace|Palette item 17: R 02, G 0F, B 07
+Trace|Palette item 18: R 19, G A5, B 52
+Trace|Palette item 19: R 24, G EC, B 76
+Trace|Palette item 20: R 12, G 78, B 3B
+Trace|Palette item 21: R 23, G E4, B 71
+Trace|Palette item 22: R 23, G E5, B 72
+Trace|Palette item 23: R 23, G E4, B 72
+Trace|Palette item 24: R 24, G ED, B 76
+Trace|Palette item 25: R 14, G 80, B 40
+Trace|Palette item 26: R 23, G E2, B 71
+Trace|Palette item 27: R 23, G DF, B 6F
+Trace|Palette item 28: R 21, G D3, B 69
+Trace|Palette item 29: R 21, G D6, B 6B
+Trace|Palette item 30: R 22, G D9, B 6B
+Trace|Palette item 31: R 22, G D8, B 6B
+Trace|Palette item 32: R 02, G 10, B 08
+Trace|Palette item 33: R 22, G DF, B 6E
+Trace|Palette item 34: R 17, G 93, B 49
+Trace|Palette item 35: R 09, G 3C, B 1E
+Trace|Palette item 36: R 0B, G 48, B 24
+Trace|Palette item 37: R 0C, G 4B, B 26
+Trace|Palette item 38: R 0D, G 57, B 2B
+Trace|Palette item 39: R 07, G 2A, B 15
+Trace|Palette item 40: R 01, G 04, B 02
+Trace|Palette item 41: R 22, G DB, B 6D
+Trace|Palette item 42: R 0F, G 64, B 32
+Trace|Palette item 43: R 22, G DD, B 6E
+Trace|Palette item 44: R 22, G DC, B 6E
+Trace|Palette item 45: R 11, G 70, B 38
+Trace|Palette item 46: R 11, G 72, B 38
+Trace|Palette item 47: R 22, G DC, B 6D
+Trace|Palette item 48: R 10, G 68, B 34
+Trace|Palette item 49: R 08, G 31, B 18
+Trace|Palette item 50: R 12, G 70, B 38
+Trace|Palette item 51: R 13, G 81, B 40
+Trace|Palette item 52: R 19, G A0, B 50
+Trace|Palette item 53: R 1D, G BA, B 5D
+Trace|Palette item 54: R 1C, G B8, B 5C
+Trace|Palette item 55: R 19, G 9F, B 4F
+Trace|Palette item 56: R 15, G 87, B 43
+Trace|Palette item 57: R 0A, G 40, B 1F
+Trace|Palette item 58: R 23, G DF, B 70
+Trace|Palette item 59: R 1E, G C2, B 61
+Trace|Palette item 60: R 1E, G C0, B 60
+Trace|Palette item 61: R 23, G E2, B 70
+Trace|Palette item 62: R 22, G DE, B 6F
+Trace|Palette item 63: R 24, G E6, B 73
+Trace|Palette item 64: R 24, G E7, B 73
+Trace|Palette item 65: R 22, G DE, B 6E
+Trace|Palette item 66: R 13, G 7F, B 40
+Trace|Palette item 67: R 24, G EF, B 77
+Trace|Palette item 68: R 25, G EE, B 77
+Trace|Palette item 69: R 24, G E8, B 73
+Trace|Palette item 70: R 0D, G 52, B 29
+Trace|Palette item 71: R 1A, G A8, B 54
+Trace|Palette item 72: R 24, G EA, B 74
+Trace|Palette item 73: R 15, G 8A, B 45
+Trace|Palette item 74: R 20, G D1, B 68
+Trace|Palette item 75: R 24, G EB, B 75
+Trace|Palette item 76: R 1C, G B1, B 58
+Trace|Palette item 77: R 04, G 1A, B 0D
+Trace|Palette item 78: R 1B, G AF, B 57
+Trace|Palette item 79: R 26, G F1, B 78
+Trace|Palette item 80: R 12, G 75, B 3B
+Trace|Palette item 81: R 03, G 15, B 0B
+Trace|Palette item 82: R 08, G 35, B 1B
+Trace|Palette item 83: R 10, G 6B, B 35
+Trace|Palette item 84: R 18, G 9A, B 4D
+Trace|Palette item 85: R 15, G 8C, B 45
+Trace|Palette item 86: R 17, G 94, B 49
+Trace|Palette item 87: R 06, G 23, B 11
+Trace|Palette item 88: R 22, G E2, B 70
+Trace|Palette item 89: R 25, G EF, B 77
+Trace|Palette item 90: R 24, G EB, B 74
+Trace|Palette item 91: R 0C, G 4D, B 27
+Trace|Palette item 92: R 21, G D4, B 69
+Trace|Palette item 93: R 1A, G A5, B 51
+Trace|Palette item 94: R 0A, G 47, B 24
+Trace|Palette item 95: R 21, G D0, B 67
+Trace|Palette item 96: R 24, G E8, B 74
+Trace|Palette item 97: R 11, G 6E, B 38
+Trace|Palette item 98: R 04, G 16, B 0B
+Trace|Palette item 99: R 20, G D2, B 69
+Trace|Palette item 100: R 20, G D3, B 6A
+Trace|Palette item 101: R 25, G F4, B 7A
+Trace|Palette item 102: R 10, G 63, B 32
+Trace|Palette item 103: R 1F, G D0, B 68
+Trace|Palette item 104: R 1D, G BF, B 5F
+Trace|Palette item 105: R 0B, G 46, B 23
+Trace|Palette item 106: R 19, G A3, B 50
+Trace|Palette item 107: R 26, G F7, B 7B
+Trace|Palette item 108: R 18, G 98, B 4C
+Trace|Palette item 109: R 12, G 73, B 3A
+Trace|Palette item 110: R 15, G 87, B 44
+Trace|Palette item 111: R 1D, G BC, B 5E
+Trace|Palette item 112: R 26, G F3, B 79
+Trace|Palette item 113: R 1C, G B6, B 5A
+Trace|Palette item 114: R 24, G EA, B 75
+Trace|Palette item 115: R 25, G EC, B 76
+Trace|Palette item 116: R 25, G ED, B 76
+Trace|Palette item 117: R 21, G D2, B 69
+Trace|Palette item 118: R 25, G EE, B 76
+Trace|Palette item 119: R 0E, G 5D, B 2E
+Trace|Palette item 120: R 0F, G 61, B 31
+Trace|Palette item 121: R 1F, G CC, B 66
+Trace|Palette item 122: R 25, G F3, B 79
+Trace|Palette item 123: R 22, G DF, B 6F
+Trace|Palette item 124: R 0A, G 40, B 20
+Trace|Palette item 125: R 10, G 6C, B 35
+Trace|Palette item 126: R 14, G 83, B 42
+Trace|Palette item 127: R 13, G 7A, B 3D
 Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 112, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 7 offset is 34633...
+Trace|Resource 7 offset is 34916...
 Debug|Encoding resource 7...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 00, G 03, B 01
-Trace|Palette item 2: R 17, G 92, B 49
-Trace|Palette item 3: R 21, G D8, B 6C
-Trace|Palette item 4: R 20, G D1, B 68
-Trace|Palette item 5: R 1F, G CB, B 65
-Trace|Palette item 6: R 22, G DB, B 6D
-Trace|Palette item 7: R 1A, G A8, B 54
-Trace|Palette item 8: R 03, G 14, B 0A
-Trace|Palette item 9: R 0C, G 4F, B 27
-Trace|Palette item 10: R 23, G E0, B 70
-Trace|Palette item 11: R 23, G E3, B 71
-Trace|Palette item 12: R 23, G E2, B 71
-Trace|Palette item 13: R 0D, G 56, B 2B
-Trace|Palette item 14: R 03, G 16, B 0B
-Trace|Palette item 15: R 1C, G B5, B 5A
-Trace|Palette item 16: R 17, G 98, B 4C
-Trace|Palette item 17: R 02, G 0D, B 07
-Trace|Palette item 18: R 10, G 6A, B 35
-Trace|Palette item 19: R 09, G 37, B 1B
-Trace|Palette item 20: R 06, G 24, B 12
-Trace|Palette item 21: R 1F, G C9, B 64
-Trace|Palette item 22: R 14, G 7F, B 3F
-Trace|Palette item 23: R 01, G 04, B 02
-Trace|Palette item 24: R 00, G 01, B 00
-Trace|Palette item 25: R 14, G 81, B 40
-Trace|Palette item 26: R 20, G D0, B 68
-Trace|Palette item 27: R 05, G 1D, B 0F
-Trace|Palette item 28: R 09, G 38, B 1C
-Trace|Palette item 29: R 0F, G 62, B 31
-Trace|Palette item 30: R 01, G 05, B 03
-Trace|Palette item 31: R 18, G 9E, B 4F
-Trace|Palette item 32: R 02, G 0B, B 05
-Trace|Palette item 33: R 0B, G 45, B 23
-Trace|Palette item 34: R 23, G E1, B 70
-Trace|Palette item 35: R 22, G DF, B 6F
-Trace|Palette item 36: R 0C, G 4B, B 25
-Trace|Palette item 37: R 01, G 09, B 04
-Trace|Palette item 38: R 1C, G B3, B 59
-Trace|Palette item 39: R 19, G 9F, B 4F
-Trace|Palette item 40: R 0E, G 5B, B 2D
-Trace|Palette item 41: R 1E, G C5, B 62
-Trace|Palette item 42: R 06, G 26, B 13
-Trace|Palette item 43: R 04, G 18, B 0C
-Trace|Palette item 44: R 1F, G C7, B 63
-Trace|Palette item 45: R 16, G 8F, B 47
-Trace|Palette item 46: R 07, G 2D, B 16
-Trace|Palette item 47: R 0C, G 51, B 28
-Trace|Palette item 48: R 0B, G 49, B 24
-Trace|Palette item 49: R 02, G 0F, B 08
-Trace|Palette item 50: R 11, G 6C, B 36
-Trace|Palette item 51: R 20, G CE, B 66
-Trace|Palette item 52: R 21, G D7, B 6B
-Trace|Palette item 53: R 21, G D5, B 6A
-Trace|Palette item 54: R 1E, G C2, B 61
-Trace|Palette item 55: R 05, G 1E, B 0F
-Trace|Palette item 56: R 1F, G CC, B 65
-Trace|Palette item 57: R 09, G 3C, B 1E
-Trace|Palette item 58: R 1F, G C8, B 64
-Trace|Palette item 59: R 06, G 29, B 14
-Trace|Palette item 60: R 02, G 0C, B 06
-Trace|Palette item 61: R 1B, G AE, B 57
-Trace|Palette item 62: R 1E, G C6, B 62
-Trace|Palette item 63: R 21, G D9, B 6C
-Trace|Palette item 64: R 07, G 2F, B 17
-Trace|Palette item 65: R 22, G DC, B 6D
-Trace|Palette item 66: R 1E, G C3, B 61
-Trace|Palette item 67: R 0B, G 4A, B 25
-Trace|Palette item 68: R 20, G CD, B 66
-Trace|Palette item 69: R 08, G 32, B 19
-Trace|Palette item 70: R 0F, G 5F, B 2F
-Trace|Palette item 71: R 14, G 82, B 41
-Trace|Palette item 72: R 15, G 8A, B 45
-Trace|Palette item 73: R 14, G 80, B 40
-Trace|Palette item 74: R 17, G 97, B 4B
-Trace|Palette item 75: R 22, G DE, B 6E
-Trace|Palette item 76: R 0E, G 58, B 2C
-Trace|Palette item 77: R 0C, G 4D, B 26
-Trace|Palette item 78: R 17, G 96, B 4B
-Trace|Palette item 79: R 18, G 9E, B 4E
-Trace|Palette item 80: R 0D, G 53, B 29
-Trace|Palette item 81: R 0B, G 47, B 23
-Trace|Palette item 82: R 21, G D4, B 69
-Trace|Palette item 83: R 18, G 9D, B 4E
-Trace|Palette item 84: R 17, G 94, B 4A
-Trace|Palette item 85: R 0E, G 5D, B 2E
-Trace|Palette item 86: R 0D, G 55, B 2B
-Trace|Palette item 87: R 13, G 7C, B 3E
-Trace|Palette item 88: R 18, G 99, B 4C
-Trace|Palette item 89: R 14, G 83, B 41
-Trace|Palette item 90: R 0C, G 4C, B 26
-Trace|Palette item 91: R 22, G DD, B 6E
+Trace|Palette item 1: R 00, G 04, B 02
+Trace|Palette item 2: R 08, G 32, B 19
+Trace|Palette item 3: R 0A, G 44, B 22
+Trace|Palette item 4: R 09, G 3E, B 1F
+Trace|Palette item 5: R 0A, G 42, B 21
+Trace|Palette item 6: R 08, G 34, B 1A
+Trace|Palette item 7: R 21, G D0, B 68
+Trace|Palette item 8: R 26, G F7, B 7B
+Trace|Palette item 9: R 24, G EC, B 75
+Trace|Palette item 10: R 24, G EB, B 75
+Trace|Palette item 11: R 26, G F5, B 7A
+Trace|Palette item 12: R 18, G 9A, B 4D
+Trace|Palette item 13: R 02, G 0F, B 07
+Trace|Palette item 14: R 03, G 15, B 0A
+Trace|Palette item 15: R 16, G 91, B 48
+Trace|Palette item 16: R 26, G F4, B 79
+Trace|Palette item 17: R 23, G E4, B 71
+Trace|Palette item 18: R 23, G E5, B 72
+Trace|Palette item 19: R 23, G E5, B 73
+Trace|Palette item 20: R 1E, G C8, B 64
+Trace|Palette item 21: R 08, G 30, B 19
+Trace|Palette item 22: R 0B, G 4C, B 26
+Trace|Palette item 23: R 23, G DF, B 6F
+Trace|Palette item 24: R 24, G E5, B 72
+Trace|Palette item 25: R 23, G E3, B 71
+Trace|Palette item 26: R 23, G E5, B 71
+Trace|Palette item 27: R 22, G DC, B 6D
+Trace|Palette item 28: R 11, G 6A, B 35
+Trace|Palette item 29: R 05, G 1E, B 0F
+Trace|Palette item 30: R 1A, G A6, B 53
+Trace|Palette item 31: R 25, G F1, B 78
+Trace|Palette item 32: R 23, G E3, B 70
+Trace|Palette item 33: R 1D, G B7, B 5B
+Trace|Palette item 34: R 0F, G 60, B 2F
+Trace|Palette item 35: R 24, G EA, B 75
+Trace|Palette item 36: R 21, G D5, B 6A
+Trace|Palette item 37: R 0D, G 51, B 28
+Trace|Palette item 38: R 06, G 28, B 14
+Trace|Palette item 39: R 1C, G B9, B 5C
+Trace|Palette item 40: R 25, G ED, B 77
+Trace|Palette item 41: R 23, G E1, B 70
+Trace|Palette item 42: R 1A, G A6, B 54
+Trace|Palette item 43: R 13, G 78, B 3C
+Trace|Palette item 44: R 23, G E6, B 72
+Trace|Palette item 45: R 20, G CB, B 65
+Trace|Palette item 46: R 09, G 36, B 1C
+Trace|Palette item 47: R 1F, G CE, B 67
+Trace|Palette item 48: R 24, G E9, B 74
+Trace|Palette item 49: R 22, G DD, B 6E
+Trace|Palette item 50: R 15, G 89, B 44
+Trace|Palette item 51: R 23, G E2, B 71
+Trace|Palette item 52: R 1E, G C1, B 60
+Trace|Palette item 53: R 24, G E7, B 73
+Trace|Palette item 54: R 12, G 71, B 38
+Trace|Palette item 55: R 18, G 97, B 4B
+Trace|Palette item 56: R 25, G F4, B 79
+Trace|Palette item 57: R 23, G E1, B 6F
+Trace|Palette item 58: R 18, G A0, B 4F
+Trace|Palette item 59: R 0D, G 55, B 2A
+Trace|Palette item 60: R 12, G 77, B 3B
+Trace|Palette item 61: R 0E, G 5F, B 2F
+Trace|Palette item 62: R 0C, G 4D, B 27
+Trace|Palette item 63: R 01, G 09, B 04
+Trace|Palette item 64: R 06, G 24, B 12
+Trace|Palette item 65: R 19, G A2, B 51
+Trace|Palette item 66: R 25, G F0, B 78
+Trace|Palette item 67: R 22, G DE, B 6E
+Trace|Palette item 68: R 20, G CF, B 67
+Trace|Palette item 69: R 20, G D2, B 68
+Trace|Palette item 70: R 22, G DD, B 6F
+Trace|Palette item 71: R 22, G D9, B 6C
+Trace|Palette item 72: R 1E, G C6, B 63
+Trace|Palette item 73: R 17, G 95, B 4A
+Trace|Palette item 74: R 23, G E6, B 73
+Trace|Palette item 75: R 23, G E4, B 72
+Trace|Palette item 76: R 1F, G C8, B 63
+Trace|Palette item 77: R 09, G 3A, B 1D
+Trace|Palette item 78: R 17, G 98, B 4C
+Trace|Palette item 79: R 20, G D4, B 6B
+Trace|Palette item 80: R 1E, G C5, B 62
+Trace|Palette item 81: R 1E, G CA, B 64
+Trace|Palette item 82: R 23, G E0, B 6F
+Trace|Palette item 83: R 16, G 8D, B 46
+Trace|Palette item 84: R 23, G E1, B 71
+Trace|Palette item 85: R 1B, G AB, B 55
+Trace|Palette item 86: R 0F, G 65, B 33
+Trace|Palette item 87: R 21, G D3, B 69
+Trace|Palette item 88: R 20, G D1, B 69
+Trace|Palette item 89: R 1B, G AD, B 57
+Trace|Palette item 90: R 0B, G 49, B 24
+Trace|Palette item 91: R 21, G D8, B 6D
 Trace|Palette item 92: R 0E, G 59, B 2C
-Trace|Palette item 93: R 03, G 15, B 0B
-Trace|Palette item 94: R 1F, G CA, B 65
-Trace|Palette item 95: R 21, G D3, B 69
-Trace|Palette item 96: R 11, G 6E, B 37
-Trace|Palette item 97: R 08, G 33, B 19
-Trace|Palette item 98: R 13, G 78, B 3C
-Trace|Palette item 99: R 04, G 1C, B 0E
-Trace|Palette item 100: R 11, G 70, B 38
-Trace|Palette item 101: R 04, G 17, B 0C
-Trace|Palette item 102: R 1C, G B6, B 5B
-Trace|Palette item 103: R 06, G 2A, B 15
-Trace|Palette item 104: R 09, G 3A, B 1D
-Trace|Palette item 105: R 05, G 24, B 12
-Trace|Palette item 106: R 19, G A3, B 51
-Trace|Palette item 107: R 1B, G AF, B 57
-Trace|Palette item 108: R 07, G 2E, B 17
-Trace|Palette item 109: R 0A, G 41, B 20
-Trace|Palette item 110: R 21, G D6, B 6A
-Trace|Palette item 111: R 1E, G C0, B 60
-Trace|Palette item 112: R 17, G 96, B 4A
-Trace|Palette item 113: R 0A, G 44, B 22
+Trace|Palette item 93: R 25, G EE, B 76
+Trace|Palette item 94: R 20, G D3, B 6A
+Trace|Palette item 95: R 18, G 98, B 4C
+Trace|Palette item 96: R 14, G 81, B 41
+Trace|Palette item 97: R 1B, G B1, B 57
+Trace|Palette item 98: R 24, G E8, B 73
+Trace|Palette item 99: R 1D, G C0, B 5F
+Trace|Palette item 100: R 10, G 63, B 31
+Trace|Palette item 101: R 22, G E1, B 6F
+Trace|Palette item 102: R 23, G E7, B 73
+Trace|Palette item 103: R 08, G 2F, B 18
+Trace|Palette item 104: R 18, G 9D, B 4E
+Trace|Palette item 105: R 1B, G B3, B 59
+Trace|Palette item 106: R 24, G E8, B 74
+Trace|Palette item 107: R 1D, G BE, B 5F
+Trace|Palette item 108: R 20, G D2, B 69
+Trace|Palette item 109: R 0F, G 5F, B 30
+Trace|Palette item 110: R 0D, G 57, B 2C
+Trace|Palette item 111: R 22, G E2, B 70
+Trace|Palette item 112: R 25, G EF, B 77
+Trace|Palette item 113: R 22, G DE, B 6F
+Trace|Palette item 114: R 22, G DA, B 6D
+Trace|Palette item 115: R 07, G 2C, B 16
+Trace|Palette item 116: R 1A, G A3, B 51
+Trace|Palette item 117: R 1C, G B1, B 59
+Trace|Palette item 118: R 21, G D7, B 6B
+Trace|Palette item 119: R 25, G F0, B 77
+Trace|Palette item 120: R 24, G E9, B 75
+Trace|Palette item 121: R 24, G EA, B 74
+Trace|Palette item 122: R 24, G E1, B 70
+Trace|Palette item 123: R 26, G F8, B 7B
+Trace|Palette item 124: R 25, G F2, B 78
+Trace|Palette item 125: R 0C, G 48, B 23
+Trace|Palette item 126: R 1F, G CB, B 66
+Trace|Palette item 127: R 10, G 6E, B 37
 Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 114, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 8 offset is 35681...
+Trace|Resource 8 offset is 36020...
 Debug|Encoding resource 8...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 1A, G A7, B 53
+Trace|Palette item 1: R 1A, G AD, B 56
 Trace|Palette item 2: R 20, G CF, B 67
-Trace|Palette item 3: R 20, G CE, B 66
-Trace|Palette item 4: R 16, G 91, B 48
-Trace|Palette item 5: R 1E, G C3, B 61
-Trace|Palette item 6: R 23, G E3, B 71
-Trace|Palette item 7: R 0F, G 64, B 32
-Trace|Palette item 8: R 1C, G B5, B 5A
-Trace|Palette item 9: R 21, G D7, B 6B
-Trace|Palette item 10: R 04, G 1A, B 0D
-Trace|Palette item 11: R 1F, G C8, B 64
-Trace|Palette item 12: R 17, G 97, B 4B
-Trace|Palette item 13: R 01, G 08, B 04
-Trace|Palette item 14: R 1E, G C2, B 61
-Trace|Palette item 15: R 21, G D5, B 6A
-Trace|Palette item 16: R 21, G D4, B 69
-Trace|Palette item 17: R 20, G D1, B 68
-Trace|Palette item 18: R 21, G D3, B 69
-Trace|Palette item 19: R 22, G DF, B 6F
-Trace|Palette item 20: R 0C, G 4F, B 27
-Trace|Palette item 21: R 00, G 01, B 00
-Trace|Palette item 22: R 08, G 34, B 1A
-Trace|Palette item 23: R 0B, G 45, B 23
-Trace|Palette item 24: R 0B, G 45, B 22
-Trace|Palette item 25: R 0A, G 3E, B 1F
-Trace|Palette item 26: R 10, G 68, B 34
-Trace|Palette item 27: R 21, G D8, B 6C
-Trace|Palette item 28: R 04, G 1B, B 0D
-Trace|Palette item 29: R 0F, G 60, B 30
-Trace|Palette item 30: R 23, G E1, B 70
-Trace|Palette item 31: R 17, G 94, B 4A
-Trace|Palette item 32: R 03, G 11, B 08
-Trace|Palette item 33: R 1D, G B9, B 5C
-Trace|Palette item 34: R 0C, G 4C, B 26
-Trace|Palette item 35: R 0D, G 52, B 29
-Trace|Palette item 36: R 05, G 1D, B 0F
-Trace|Palette item 37: R 15, G 8B, B 45
-Trace|Palette item 38: R 17, G 93, B 49
-Trace|Palette item 39: R 01, G 09, B 04
-Trace|Palette item 40: R 05, G 24, B 12
-Trace|Palette item 41: R 1F, G C7, B 63
-Trace|Palette item 42: R 0C, G 4D, B 27
-Trace|Palette item 43: R 0F, G 62, B 31
-Trace|Palette item 44: R 05, G 22, B 11
-Trace|Palette item 45: R 02, G 0E, B 07
-Trace|Palette item 46: R 19, G A1, B 50
-Trace|Palette item 47: R 16, G 8E, B 46
-Trace|Palette item 48: R 09, G 3D, B 1F
-Trace|Palette item 49: R 0C, G 4D, B 26
-Trace|Palette item 50: R 13, G 78, B 3C
-Trace|Palette item 51: R 05, G 23, B 11
-Trace|Palette item 52: R 05, G 1E, B 0F
-Trace|Palette item 53: R 15, G 87, B 43
-Trace|Palette item 54: R 01, G 07, B 04
-Trace|Palette item 55: R 01, G 04, B 02
-Trace|Palette item 56: R 1E, G C5, B 62
-Trace|Palette item 57: R 07, G 2B, B 15
-Trace|Palette item 58: R 20, G D0, B 68
-Trace|Palette item 59: R 14, G 83, B 41
-Trace|Palette item 60: R 0E, G 5D, B 2F
-Trace|Palette item 61: R 02, G 0F, B 08
-Trace|Palette item 62: R 1A, G AB, B 55
-Trace|Palette item 63: R 1E, G BF, B 5F
-Trace|Palette item 64: R 08, G 35, B 1B
-Trace|Palette item 65: R 14, G 80, B 40
-Trace|Palette item 66: R 11, G 71, B 38
-Trace|Palette item 67: R 04, G 18, B 0C
-Trace|Palette item 68: R 1D, G BD, B 5E
-Trace|Palette item 69: R 0A, G 40, B 20
-Trace|Palette item 70: R 14, G 81, B 40
-Trace|Palette item 71: R 23, G E0, B 70
-Trace|Palette item 72: R 05, G 20, B 10
-Trace|Palette item 73: R 22, G DA, B 6D
-Trace|Palette item 74: R 1C, G B7, B 5B
-Trace|Palette item 75: R 04, G 17, B 0C
-Trace|Palette item 76: R 0E, G 5D, B 2E
-Trace|Palette item 77: R 03, G 14, B 0A
-Trace|Palette item 78: R 1D, G BC, B 5E
-Trace|Palette item 79: R 22, G DE, B 6E
-Trace|Palette item 80: R 08, G 32, B 19
-Trace|Palette item 81: R 03, G 12, B 09
+Trace|Palette item 3: R 1F, G CA, B 64
+Trace|Palette item 4: R 16, G 8F, B 47
+Trace|Palette item 5: R 1F, G CB, B 65
+Trace|Palette item 6: R 24, G E6, B 73
+Trace|Palette item 7: R 23, G E3, B 71
+Trace|Palette item 8: R 23, G E1, B 70
+Trace|Palette item 9: R 10, G 69, B 35
+Trace|Palette item 10: R 1E, G C0, B 60
+Trace|Palette item 11: R 24, G E8, B 73
+Trace|Palette item 12: R 21, G D6, B 6A
+Trace|Palette item 13: R 05, G 1E, B 0F
+Trace|Palette item 14: R 20, G CE, B 67
+Trace|Palette item 15: R 23, G E7, B 72
+Trace|Palette item 16: R 23, G E4, B 71
+Trace|Palette item 17: R 17, G 9A, B 4C
+Trace|Palette item 18: R 01, G 08, B 04
+Trace|Palette item 19: R 22, G E0, B 6F
+Trace|Palette item 20: R 22, G DD, B 6D
+Trace|Palette item 21: R 21, G DA, B 6D
+Trace|Palette item 22: R 22, G DA, B 6D
+Trace|Palette item 23: R 22, G E0, B 70
+Trace|Palette item 24: R 0C, G 52, B 29
+Trace|Palette item 25: R 00, G 01, B 01
+Trace|Palette item 26: R 0B, G 47, B 24
+Trace|Palette item 27: R 0D, G 57, B 2C
+Trace|Palette item 28: R 0D, G 55, B 2A
+Trace|Palette item 29: R 0D, G 54, B 29
+Trace|Palette item 30: R 0C, G 50, B 28
+Trace|Palette item 31: R 13, G 7E, B 3F
+Trace|Palette item 32: R 22, G DE, B 6F
+Trace|Palette item 33: R 21, G D7, B 6C
+Trace|Palette item 34: R 04, G 1C, B 0D
+Trace|Palette item 35: R 01, G 04, B 02
+Trace|Palette item 36: R 01, G 06, B 03
+Trace|Palette item 37: R 01, G 0B, B 06
+Trace|Palette item 38: R 11, G 6D, B 37
+Trace|Palette item 39: R 24, G E8, B 74
+Trace|Palette item 40: R 23, G E0, B 6F
+Trace|Palette item 41: R 18, G 99, B 4D
+Trace|Palette item 42: R 1D, G BD, B 5E
+Trace|Palette item 43: R 22, G DF, B 6F
+Trace|Palette item 44: R 0D, G 51, B 28
+Trace|Palette item 45: R 0E, G 5B, B 2E
+Trace|Palette item 46: R 21, G D3, B 69
+Trace|Palette item 47: R 05, G 1D, B 0F
+Trace|Palette item 48: R 16, G 94, B 49
+Trace|Palette item 49: R 24, G EA, B 74
+Trace|Palette item 50: R 18, G 99, B 4C
+Trace|Palette item 51: R 07, G 2F, B 17
+Trace|Palette item 52: R 1F, G CC, B 66
+Trace|Palette item 53: R 23, G E6, B 72
+Trace|Palette item 54: R 22, G DE, B 6E
+Trace|Palette item 55: R 0D, G 51, B 2A
+Trace|Palette item 56: R 11, G 6B, B 35
+Trace|Palette item 57: R 24, G EB, B 75
+Trace|Palette item 58: R 05, G 22, B 10
+Trace|Palette item 59: R 04, G 1A, B 0C
+Trace|Palette item 60: R 1A, G A6, B 53
+Trace|Palette item 61: R 17, G 95, B 49
+Trace|Palette item 62: R 0A, G 49, B 25
+Trace|Palette item 63: R 23, G E4, B 72
+Trace|Palette item 64: R 22, G DD, B 6E
+Trace|Palette item 65: R 02, G 0D, B 06
+Trace|Palette item 66: R 14, G 80, B 41
+Trace|Palette item 67: R 24, G EF, B 76
+Trace|Palette item 68: R 1F, G C7, B 64
+Trace|Palette item 69: R 07, G 2B, B 15
+Trace|Palette item 70: R 1E, G BD, B 5F
+Trace|Palette item 71: R 23, G E8, B 74
+Trace|Palette item 72: R 16, G 8D, B 46
+Trace|Palette item 73: R 0E, G 59, B 2C
+Trace|Palette item 74: R 22, G DC, B 6D
+Trace|Palette item 75: R 0D, G 50, B 28
+Trace|Palette item 76: R 03, G 13, B 09
+Trace|Palette item 77: R 17, G 94, B 49
+Trace|Palette item 78: R 25, G EE, B 77
+Trace|Palette item 79: R 1E, G C6, B 62
+Trace|Palette item 80: R 09, G 39, B 1C
+Trace|Palette item 81: R 23, G E6, B 73
+Trace|Palette item 82: R 15, G 8A, B 44
+Trace|Palette item 83: R 25, G EF, B 77
+Trace|Palette item 84: R 23, G E5, B 72
+Trace|Palette item 85: R 22, G DB, B 6D
+Trace|Palette item 86: R 0C, G 4E, B 27
+Trace|Palette item 87: R 1A, G AB, B 55
+Trace|Palette item 88: R 25, G EB, B 76
+Trace|Palette item 89: R 24, G E7, B 73
+Trace|Palette item 90: R 22, G DC, B 6E
+Trace|Palette item 91: R 15, G 85, B 42
+Trace|Palette item 92: R 12, G 79, B 3C
+Trace|Palette item 93: R 26, G F5, B 7A
+Trace|Palette item 94: R 0C, G 4D, B 27
+Trace|Palette item 95: R 07, G 2C, B 15
+Trace|Palette item 96: R 1E, G C3, B 61
+Trace|Palette item 97: R 24, G E9, B 73
+Trace|Palette item 98: R 1D, G BE, B 5F
+Trace|Palette item 99: R 04, G 1B, B 0E
+Trace|Palette item 100: R 0D, G 53, B 29
+Trace|Palette item 101: R 25, G F1, B 78
+Trace|Palette item 102: R 15, G 8C, B 46
+Trace|Palette item 103: R 21, G D6, B 6B
+Trace|Palette item 104: R 0C, G 4E, B 26
+Trace|Palette item 105: R 09, G 37, B 1B
+Trace|Palette item 106: R 21, G D7, B 6B
+Trace|Palette item 107: R 23, G E2, B 71
+Trace|Palette item 108: R 1C, G B8, B 5B
+Trace|Palette item 109: R 04, G 19, B 0D
+Trace|Palette item 110: R 10, G 67, B 33
+Trace|Palette item 111: R 14, G 82, B 40
+Trace|Palette item 112: R 05, G 26, B 13
+Trace|Palette item 113: R 1C, G B5, B 5A
+Trace|Palette item 114: R 23, G E7, B 73
+Trace|Palette item 115: R 0C, G 4F, B 26
+Trace|Palette item 116: R 27, G FB, B 7D
+Trace|Palette item 117: R 25, G ED, B 76
+Trace|Palette item 118: R 25, G EC, B 75
+Trace|Palette item 119: R 25, G EE, B 76
+Trace|Palette item 120: R 25, G F0, B 78
+Trace|Palette item 121: R 1C, G B3, B 59
+Trace|Palette item 122: R 08, G 2F, B 18
+Trace|Palette item 123: R 11, G 6F, B 37
+Trace|Palette item 124: R 0F, G 61, B 30
+Trace|Palette item 125: R 0F, G 63, B 31
+Trace|Palette item 126: R 0F, G 64, B 32
+Trace|Palette item 127: R 09, G 3C, B 1E
 Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 82, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 9 offset is 36601...
+Trace|Resource 9 offset is 37124...
 Debug|Encoding resource 9...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1561,11 +1704,11 @@ Trace|Palette item 4: R 1E, G C4, B 61
 Trace|Palette item 5: R 21, G D7, B 6B
 Trace|Palette item 6: R 1F, G C7, B 63
 Trace|Palette item 7: R 18, G 99, B 4C
-Trace|Palette item 8: R 04, G 1B, B 0D
+Trace|Palette item 8: R 05, G 1C, B 0E
 Trace|Palette item 9: R 18, G 9B, B 4D
 Trace|Palette item 10: R 23, G E3, B 71
-Trace|Palette item 11: R 04, G 1A, B 0D
-Trace|Palette item 12: R 04, G 18, B 0C
+Trace|Palette item 11: R 04, G 19, B 0D
+Trace|Palette item 12: R 04, G 17, B 0C
 Trace|Palette item 13: R 1B, G AE, B 56
 Trace|Palette item 14: R 1A, G AA, B 55
 Trace|Palette item 15: R 03, G 16, B 0B
@@ -1614,203 +1757,218 @@ Trace|Palette item 57: R 15, G 86, B 43
 Trace|Palette item 58: R 17, G 93, B 49
 Trace|Palette item 59: R 20, G D1, B 68
 Trace|Palette item 60: R 07, G 2E, B 17
-Trace|Palette item 61: R 03, G 12, B 09
+Trace|Palette item 61: R 03, G 13, B 09
 Trace|Palette item 62: R 1D, G BA, B 5D
 Trace|Palette item 63: R 10, G 65, B 32
-Trace|Palette item 64: R 05, G 1D, B 0F
+Trace|Palette item 64: R 05, G 1E, B 0F
 Trace|Palette item 65: R 1C, G B5, B 5A
 Trace|Palette item 66: R 05, G 20, B 10
 Trace|Palette item 67: R 23, G E0, B 70
 Trace|Palette item 68: R 1F, G CA, B 65
-Trace|Palette item 69: R 05, G 1E, B 0F
-Trace|Palette item 70: R 0D, G 57, B 2B
-Trace|Palette item 71: R 1E, G C5, B 62
-Trace|Palette item 72: R 0C, G 4B, B 25
-Trace|Palette item 73: R 22, G DC, B 6D
-Trace|Palette item 74: R 0E, G 5D, B 2E
-Trace|Palette item 75: R 00, G 03, B 01
-Trace|Palette item 76: R 22, G DA, B 6D
-Trace|Palette item 77: R 0D, G 55, B 2B
-Trace|Palette item 78: R 01, G 05, B 03
-Trace|Palette item 79: R 13, G 7E, B 3F
-Trace|Palette item 80: R 22, G DF, B 6F
-Trace|Palette item 81: R 20, G D0, B 68
-Trace|Palette item 82: R 22, G DB, B 6D
-Trace|Palette item 83: R 03, G 11, B 08
-Trace|Palette item 84: R 10, G 68, B 34
-Trace|Palette item 85: R 1E, G BF, B 5F
-Trace|Palette item 86: R 0F, G 5F, B 2F
-Trace|Palette item 87: R 06, G 24, B 12
-Trace|Palette item 88: R 0E, G 5D, B 2F
-Trace|Palette item 89: R 1D, G BE, B 5E
-Trace|Palette item 90: R 14, G 82, B 41
-Trace|Palette item 91: R 05, G 24, B 12
-Trace|Palette item 92: R 21, G D3, B 69
-Trace|Palette item 93: R 1D, G BD, B 5E
-Trace|Palette item 94: R 09, G 3C, B 1E
-Trace|Palette item 95: R 12, G 75, B 3A
-Trace|Palette item 96: R 0E, G 59, B 2C
-Trace|Palette item 97: R 15, G 86, B 42
-Trace|Palette item 98: R 1E, G C6, B 62
-Trace|Palette item 99: R 06, G 28, B 14
-Trace|Palette item 100: R 05, G 1F, B 10
-Trace|Palette item 101: R 1E, G C1, B 60
-Trace|Palette item 102: R 1A, G AC, B 56
-Trace|Palette item 103: R 1D, G B9, B 5C
-Trace|Palette item 104: R 02, G 0E, B 07
-Trace|Palette item 105: R 01, G 04, B 02
-Trace|Palette item 106: R 1D, G BC, B 5E
-Trace|Palette item 107: R 03, G 15, B 0B
-Trace|Palette item 108: R 02, G 10, B 08
-Trace|Palette item 109: R 1D, G BF, B 5F
-Trace|Palette item 110: R 0A, G 3E, B 1F
-Trace|Palette item 111: R 0A, G 3F, B 1F
-Trace|Palette item 112: R 17, G 98, B 4C
-Trace|Palette item 113: R 17, G 95, B 4A
-Trace|Palette item 114: R 10, G 65, B 33
-Trace|Palette item 115: R 14, G 85, B 42
-Trace|Palette item 116: R 03, G 13, B 09
-Trace|Palette item 117: R 21, G D4, B 69
-Trace|Palette item 118: R 1C, G B8, B 5C
-Trace|Palette item 119: R 19, G 9F, B 4F
-Trace|Palette item 120: R 18, G 9E, B 4E
-Trace|Palette item 121: R 1C, G B7, B 5B
-Trace|Palette item 122: R 11, G 70, B 38
-Trace|Palette item 123: R 12, G 77, B 3B
-Trace|Palette item 124: R 17, G 97, B 4B
-Trace|Palette item 125: R 03, G 14, B 0A
-Trace|Palette item 126: R 02, G 0F, B 08
-Trace|Palette item 127: R 16, G 8E, B 47
-Trace|Palette item 128: R 04, G 17, B 0C
-Trace|Palette item 129: R 06, G 26, B 13
-Trace|Palette item 130: R 12, G 73, B 39
-Trace|Palette item 131: R 1A, G A7, B 53
-Trace|Palette item 132: R 20, G CD, B 66
-Trace|Palette item 133: R 08, G 35, B 1B
-Trace|Bits per pixel Estimated:8, Used:8
+Trace|Palette item 69: R 0D, G 57, B 2B
+Trace|Palette item 70: R 1E, G C5, B 62
+Trace|Palette item 71: R 0C, G 4B, B 25
+Trace|Palette item 72: R 22, G DC, B 6D
+Trace|Palette item 73: R 0E, G 5D, B 2E
+Trace|Palette item 74: R 22, G DA, B 6D
+Trace|Palette item 75: R 0D, G 55, B 2B
+Trace|Palette item 76: R 13, G 7E, B 3F
+Trace|Palette item 77: R 22, G DF, B 6F
+Trace|Palette item 78: R 20, G D0, B 68
+Trace|Palette item 79: R 22, G DB, B 6D
+Trace|Palette item 80: R 03, G 11, B 08
+Trace|Palette item 81: R 10, G 68, B 34
+Trace|Palette item 82: R 1E, G BF, B 5F
+Trace|Palette item 83: R 0F, G 5F, B 2F
+Trace|Palette item 84: R 06, G 24, B 12
+Trace|Palette item 85: R 0E, G 5D, B 2F
+Trace|Palette item 86: R 1D, G BE, B 5E
+Trace|Palette item 87: R 14, G 82, B 41
+Trace|Palette item 88: R 05, G 24, B 12
+Trace|Palette item 89: R 21, G D3, B 69
+Trace|Palette item 90: R 1D, G BD, B 5E
+Trace|Palette item 91: R 09, G 3C, B 1E
+Trace|Palette item 92: R 12, G 75, B 3A
+Trace|Palette item 93: R 0E, G 59, B 2C
+Trace|Palette item 94: R 15, G 86, B 42
+Trace|Palette item 95: R 1E, G C6, B 62
+Trace|Palette item 96: R 06, G 28, B 14
+Trace|Palette item 97: R 05, G 1F, B 10
+Trace|Palette item 98: R 1E, G C1, B 60
+Trace|Palette item 99: R 1A, G AC, B 56
+Trace|Palette item 100: R 1D, G B9, B 5C
+Trace|Palette item 101: R 02, G 0E, B 07
+Trace|Palette item 102: R 01, G 04, B 02
+Trace|Palette item 103: R 1D, G BC, B 5E
+Trace|Palette item 104: R 03, G 15, B 0B
+Trace|Palette item 105: R 02, G 10, B 08
+Trace|Palette item 106: R 1D, G BF, B 5F
+Trace|Palette item 107: R 0A, G 3E, B 1F
+Trace|Palette item 108: R 0A, G 3F, B 1F
+Trace|Palette item 109: R 17, G 98, B 4C
+Trace|Palette item 110: R 17, G 95, B 4A
+Trace|Palette item 111: R 10, G 65, B 33
+Trace|Palette item 112: R 14, G 85, B 42
+Trace|Palette item 113: R 21, G D4, B 69
+Trace|Palette item 114: R 1C, G B8, B 5C
+Trace|Palette item 115: R 19, G 9F, B 4F
+Trace|Palette item 116: R 18, G 9E, B 4E
+Trace|Palette item 117: R 1C, G B7, B 5B
+Trace|Palette item 118: R 11, G 70, B 38
+Trace|Palette item 119: R 12, G 77, B 3B
+Trace|Palette item 120: R 17, G 97, B 4B
+Trace|Palette item 121: R 02, G 0F, B 08
+Trace|Palette item 122: R 16, G 8E, B 47
+Trace|Palette item 123: R 06, G 26, B 13
+Trace|Palette item 124: R 12, G 73, B 39
+Trace|Palette item 125: R 1A, G A7, B 53
+Trace|Palette item 126: R 20, G CD, B 66
+Trace|Palette item 127: R 08, G 35, B 1B
+Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 134, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 10 offset is 37729...
+Trace|Resource 10 offset is 38228...
 Debug|Encoding resource 10...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
 Trace|Palette item 0: R 00, G 00, B 00
-Trace|Palette item 1: R 02, G 0C, B 06
-Trace|Palette item 2: R 0B, G 45, B 22
-Trace|Palette item 3: R 17, G 94, B 4A
-Trace|Palette item 4: R 1D, G BC, B 5E
-Trace|Palette item 5: R 21, G D6, B 6A
-Trace|Palette item 6: R 21, G D7, B 6B
-Trace|Palette item 7: R 1E, G C2, B 61
-Trace|Palette item 8: R 17, G 96, B 4B
-Trace|Palette item 9: R 0A, G 41, B 20
-Trace|Palette item 10: R 02, G 0B, B 05
-Trace|Palette item 11: R 07, G 2D, B 16
-Trace|Palette item 12: R 1B, G AE, B 56
-Trace|Palette item 13: R 23, G E3, B 71
-Trace|Palette item 14: R 19, G A3, B 51
-Trace|Palette item 15: R 05, G 24, B 12
-Trace|Palette item 16: R 09, G 3A, B 1D
-Trace|Palette item 17: R 21, G D4, B 69
-Trace|Palette item 18: R 1E, G C3, B 61
-Trace|Palette item 19: R 06, G 2A, B 15
-Trace|Palette item 20: R 04, G 1C, B 0E
-Trace|Palette item 21: R 1F, G C7, B 63
-Trace|Palette item 22: R 1C, G B6, B 5B
-Trace|Palette item 23: R 04, G 17, B 0C
-Trace|Palette item 24: R 13, G 7D, B 3E
-Trace|Palette item 25: R 1F, G CA, B 65
-Trace|Palette item 26: R 11, G 70, B 38
-Trace|Palette item 27: R 13, G 78, B 3C
-Trace|Palette item 28: R 08, G 33, B 19
-Trace|Palette item 29: R 11, G 6E, B 37
-Trace|Palette item 30: R 21, G D3, B 69
-Trace|Palette item 31: R 03, G 15, B 0B
-Trace|Palette item 32: R 0E, G 58, B 2C
-Trace|Palette item 33: R 22, G DB, B 6D
-Trace|Palette item 34: R 0E, G 5D, B 2E
-Trace|Palette item 35: R 0C, G 50, B 28
-Trace|Palette item 36: R 22, G DC, B 6D
-Trace|Palette item 37: R 0C, G 4C, B 26
-Trace|Palette item 38: R 14, G 81, B 40
-Trace|Palette item 39: R 18, G 9E, B 4E
-Trace|Palette item 40: R 17, G 92, B 49
-Trace|Palette item 41: R 13, G 7C, B 3E
-Trace|Palette item 42: R 22, G DF, B 6F
-Trace|Palette item 43: R 0F, G 60, B 30
-Trace|Palette item 44: R 0D, G 55, B 2A
-Trace|Palette item 45: R 22, G DE, B 6E
-Trace|Palette item 46: R 21, G D9, B 6C
-Trace|Palette item 47: R 0D, G 53, B 29
-Trace|Palette item 48: R 0B, G 48, B 24
-Trace|Palette item 49: R 21, G D5, B 6A
-Trace|Palette item 50: R 0C, G 4E, B 27
-Trace|Palette item 51: R 17, G 97, B 4B
-Trace|Palette item 52: R 14, G 82, B 41
-Trace|Palette item 53: R 23, G E2, B 71
-Trace|Palette item 54: R 14, G 80, B 40
-Trace|Palette item 55: R 0F, G 5F, B 2F
-Trace|Palette item 56: R 1F, G CB, B 65
-Trace|Palette item 57: R 08, G 32, B 19
-Trace|Palette item 58: R 0F, G 62, B 31
-Trace|Palette item 59: R 06, G 26, B 13
-Trace|Palette item 60: R 21, G D8, B 6C
-Trace|Palette item 61: R 0B, G 45, B 23
-Trace|Palette item 62: R 07, G 2F, B 17
-Trace|Palette item 63: R 01, G 09, B 04
-Trace|Palette item 64: R 1E, G C6, B 62
-Trace|Palette item 65: R 1B, G B0, B 58
-Trace|Palette item 66: R 02, G 0D, B 07
-Trace|Palette item 67: R 06, G 29, B 14
-Trace|Palette item 68: R 1F, G C8, B 64
-Trace|Palette item 69: R 10, G 67, B 33
-Trace|Palette item 70: R 00, G 03, B 01
-Trace|Palette item 71: R 09, G 3C, B 1E
-Trace|Palette item 72: R 20, G CD, B 66
-Trace|Palette item 73: R 05, G 1E, B 0F
-Trace|Palette item 74: R 05, G 21, B 10
-Trace|Palette item 75: R 18, G 9A, B 4D
-Trace|Palette item 76: R 23, G E1, B 70
-Trace|Palette item 77: R 12, G 76, B 3B
-Trace|Palette item 78: R 01, G 06, B 03
-Trace|Palette item 79: R 03, G 13, B 09
-Trace|Palette item 80: R 0B, G 4A, B 25
-Trace|Palette item 81: R 0D, G 52, B 29
-Trace|Palette item 82: R 07, G 2C, B 16
-Trace|Palette item 83: R 15, G 87, B 43
-Trace|Palette item 84: R 1F, G CC, B 65
-Trace|Palette item 85: R 1D, G BF, B 5F
-Trace|Palette item 86: R 01, G 04, B 02
-Trace|Palette item 87: R 1C, G B4, B 5A
-Trace|Palette item 88: R 1B, G AF, B 57
-Trace|Palette item 89: R 19, G A1, B 50
-Trace|Palette item 90: R 01, G 05, B 03
-Trace|Palette item 91: R 0E, G 5C, B 2E
-Trace|Palette item 92: R 04, G 18, B 0C
-Trace|Palette item 93: R 15, G 89, B 44
-Trace|Palette item 94: R 00, G 01, B 00
-Trace|Palette item 95: R 13, G 7A, B 3D
-Trace|Palette item 96: R 08, G 35, B 1A
-Trace|Palette item 97: R 22, G DA, B 6D
-Trace|Palette item 98: R 11, G 6D, B 36
-Trace|Palette item 99: R 1C, G B8, B 5C
-Trace|Palette item 100: R 04, G 1A, B 0D
-Trace|Palette item 101: R 0D, G 54, B 2A
-Trace|Palette item 102: R 0D, G 56, B 2B
-Trace|Palette item 103: R 03, G 14, B 0A
-Trace|Palette item 104: R 1A, G A7, B 53
-Trace|Palette item 105: R 20, G D1, B 68
-Trace|Palette item 106: R 18, G 9D, B 4E
+Trace|Palette item 1: R 06, G 29, B 14
+Trace|Palette item 2: R 0D, G 5A, B 2D
+Trace|Palette item 3: R 12, G 72, B 39
+Trace|Palette item 4: R 14, G 80, B 3F
+Trace|Palette item 5: R 13, G 7F, B 3E
+Trace|Palette item 6: R 11, G 6D, B 37
+Trace|Palette item 7: R 0C, G 4E, B 27
+Trace|Palette item 8: R 03, G 14, B 0A
+Trace|Palette item 9: R 05, G 22, B 10
+Trace|Palette item 10: R 13, G 7C, B 3D
+Trace|Palette item 11: R 1C, G B3, B 59
+Trace|Palette item 12: R 21, G D4, B 6A
+Trace|Palette item 13: R 23, G E6, B 72
+Trace|Palette item 14: R 25, G F1, B 78
+Trace|Palette item 15: R 25, G EE, B 77
+Trace|Palette item 16: R 23, G E2, B 71
+Trace|Palette item 17: R 1F, G CB, B 65
+Trace|Palette item 18: R 19, G A0, B 50
+Trace|Palette item 19: R 0E, G 5D, B 2E
+Trace|Palette item 20: R 02, G 0A, B 05
+Trace|Palette item 21: R 08, G 34, B 1A
+Trace|Palette item 22: R 1A, G AB, B 54
+Trace|Palette item 23: R 24, G E8, B 73
+Trace|Palette item 24: R 25, G F3, B 79
+Trace|Palette item 25: R 24, G E9, B 74
+Trace|Palette item 26: R 23, G E4, B 72
+Trace|Palette item 27: R 24, G E6, B 73
+Trace|Palette item 28: R 24, G EA, B 75
+Trace|Palette item 29: R 20, G D3, B 69
+Trace|Palette item 30: R 03, G 11, B 09
+Trace|Palette item 31: R 07, G 2D, B 17
+Trace|Palette item 32: R 1C, G B4, B 59
+Trace|Palette item 33: R 26, G F7, B 7B
+Trace|Palette item 34: R 23, G E7, B 73
+Trace|Palette item 35: R 23, G E3, B 71
+Trace|Palette item 36: R 23, G E5, B 72
+Trace|Palette item 37: R 23, G E7, B 72
+Trace|Palette item 38: R 13, G 7C, B 3E
+Trace|Palette item 39: R 02, G 0E, B 07
+Trace|Palette item 40: R 14, G 87, B 43
+Trace|Palette item 41: R 26, G F5, B 7A
+Trace|Palette item 42: R 24, G EC, B 75
+Trace|Palette item 43: R 23, G E5, B 71
+Trace|Palette item 44: R 25, G ED, B 76
+Trace|Palette item 45: R 0B, G 4D, B 26
+Trace|Palette item 46: R 00, G 04, B 02
+Trace|Palette item 47: R 0B, G 46, B 23
+Trace|Palette item 48: R 20, G D2, B 68
+Trace|Palette item 49: R 24, G EC, B 76
+Trace|Palette item 50: R 23, G E2, B 70
+Trace|Palette item 51: R 1C, G B4, B 5A
+Trace|Palette item 52: R 15, G 89, B 45
+Trace|Palette item 53: R 16, G 8F, B 47
+Trace|Palette item 54: R 1E, G C2, B 61
+Trace|Palette item 55: R 24, G EB, B 75
+Trace|Palette item 56: R 1B, G AD, B 56
+Trace|Palette item 57: R 04, G 18, B 0C
+Trace|Palette item 58: R 13, G 7B, B 3D
+Trace|Palette item 59: R 24, G E6, B 72
+Trace|Palette item 60: R 22, G DC, B 6D
+Trace|Palette item 61: R 16, G 94, B 49
+Trace|Palette item 62: R 08, G 31, B 19
+Trace|Palette item 63: R 0B, G 41, B 21
+Trace|Palette item 64: R 0A, G 40, B 1F
+Trace|Palette item 65: R 19, G 9D, B 4E
+Trace|Palette item 66: R 1A, G A5, B 52
+Trace|Palette item 67: R 04, G 1B, B 0D
+Trace|Palette item 68: R 08, G 2F, B 17
+Trace|Palette item 69: R 1F, G C9, B 63
+Trace|Palette item 70: R 25, G EE, B 76
+Trace|Palette item 71: R 1B, G AF, B 57
+Trace|Palette item 72: R 24, G E8, B 74
+Trace|Palette item 73: R 20, G D0, B 67
+Trace|Palette item 74: R 23, G E1, B 70
+Trace|Palette item 75: R 17, G 94, B 4A
+Trace|Palette item 76: R 1D, G BA, B 5C
+Trace|Palette item 77: R 1C, G BC, B 5D
+Trace|Palette item 78: R 22, G D9, B 6C
+Trace|Palette item 79: R 19, G A4, B 51
+Trace|Palette item 80: R 23, G E4, B 71
+Trace|Palette item 81: R 1C, G B7, B 5B
+Trace|Palette item 82: R 0B, G 49, B 24
+Trace|Palette item 83: R 21, G D3, B 69
+Trace|Palette item 84: R 19, G A7, B 53
+Trace|Palette item 85: R 1E, G BE, B 5F
+Trace|Palette item 86: R 09, G 3A, B 1D
+Trace|Palette item 87: R 25, G EF, B 76
+Trace|Palette item 88: R 24, G E7, B 74
+Trace|Palette item 89: R 21, G D2, B 69
+Trace|Palette item 90: R 10, G 64, B 33
+Trace|Palette item 91: R 24, G EB, B 74
+Trace|Palette item 92: R 25, G F2, B 78
+Trace|Palette item 93: R 1B, G B4, B 5A
+Trace|Palette item 94: R 0D, G 50, B 28
+Trace|Palette item 95: R 20, G D6, B 6A
+Trace|Palette item 96: R 10, G 68, B 34
+Trace|Palette item 97: R 1C, G B8, B 5C
+Trace|Palette item 98: R 0F, G 63, B 32
+Trace|Palette item 99: R 23, G E6, B 71
+Trace|Palette item 100: R 1D, G B7, B 5C
+Trace|Palette item 101: R 21, G DE, B 6E
+Trace|Palette item 102: R 05, G 1F, B 10
+Trace|Palette item 103: R 22, G DF, B 6F
+Trace|Palette item 104: R 24, G EA, B 74
+Trace|Palette item 105: R 12, G 75, B 3A
+Trace|Palette item 106: R 22, G D7, B 6B
+Trace|Palette item 107: R 0C, G 4B, B 25
+Trace|Palette item 108: R 1D, G B5, B 5B
+Trace|Palette item 109: R 20, G CF, B 67
+Trace|Palette item 110: R 21, G DA, B 6C
+Trace|Palette item 111: R 21, G D8, B 6B
+Trace|Palette item 112: R 1F, G CC, B 65
+Trace|Palette item 113: R 20, G D0, B 68
+Trace|Palette item 114: R 24, G E7, B 73
+Trace|Palette item 115: R 0D, G 54, B 2A
+Trace|Palette item 116: R 17, G 96, B 4B
+Trace|Palette item 117: R 23, G E8, B 73
+Trace|Palette item 118: R 17, G 9C, B 4E
+Trace|Palette item 119: R 1E, G C4, B 61
+Trace|Palette item 120: R 22, G DC, B 6E
+Trace|Palette item 121: R 25, G F0, B 77
+Trace|Palette item 122: R 22, G DB, B 6D
+Trace|Palette item 123: R 15, G 84, B 41
+Trace|Palette item 124: R 18, G 9B, B 4D
+Trace|Palette item 125: R 25, G F2, B 79
+Trace|Palette item 126: R 27, G FF, B 80
+Trace|Palette item 127: R 1B, G B1, B 58
 Trace|Bits per pixel Estimated:7, Used:8
 Trace|Writing image header...
 Trace|Width: 18, Height: 32, RowLength: 18
-Trace|BPP: 8, PaletteColors: 107, Transaparency: 0
+Trace|BPP: 8, PaletteColors: 128, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 11 offset is 38749...
+Trace|Resource 11 offset is 39332...
 Debug|Encoding resource 11...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1839,7 +1997,7 @@ Trace|Width: 9, Height: 12, RowLength: 9
 Trace|BPP: 8, PaletteColors: 19, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 12 offset is 38949...
+Trace|Resource 12 offset is 39532...
 Debug|Encoding resource 12...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1856,7 +2014,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 7, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 13 offset is 39053...
+Trace|Resource 13 offset is 39636...
 Debug|Encoding resource 13...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1881,7 +2039,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 15, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 14 offset is 39189...
+Trace|Resource 14 offset is 39772...
 Debug|Encoding resource 14...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1908,7 +2066,7 @@ Trace|Width: 9, Height: 12, RowLength: 9
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 15 offset is 39381...
+Trace|Resource 15 offset is 39964...
 Debug|Encoding resource 15...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1930,7 +2088,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 12, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 16 offset is 39505...
+Trace|Resource 16 offset is 40088...
 Debug|Encoding resource 16...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1956,7 +2114,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 17 offset is 39645...
+Trace|Resource 17 offset is 40228...
 Debug|Encoding resource 17...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -1981,7 +2139,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 15, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 18 offset is 39781...
+Trace|Resource 18 offset is 40364...
 Debug|Encoding resource 18...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2006,7 +2164,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 15, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 19 offset is 39917...
+Trace|Resource 19 offset is 40500...
 Debug|Encoding resource 19...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2032,7 +2190,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 20 offset is 40057...
+Trace|Resource 20 offset is 40640...
 Debug|Encoding resource 20...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2058,7 +2216,7 @@ Trace|Width: 9, Height: 12, RowLength: 5
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 21 offset is 40197...
+Trace|Resource 21 offset is 40780...
 Debug|Encoding resource 21...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2115,7 +2273,7 @@ Trace|Width: 5, Height: 21, RowLength: 5
 Trace|BPP: 8, PaletteColors: 47, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 22 offset is 40506...
+Trace|Resource 22 offset is 41089...
 Debug|Encoding resource 22...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2156,7 +2314,7 @@ Trace|Width: 5, Height: 24, RowLength: 5
 Trace|BPP: 8, PaletteColors: 31, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 23 offset is 40766...
+Trace|Resource 23 offset is 41349...
 Debug|Encoding resource 23...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2189,7 +2347,7 @@ Trace|Width: 5, Height: 48, RowLength: 5
 Trace|BPP: 8, PaletteColors: 23, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 24 offset is 41114...
+Trace|Resource 24 offset is 41697...
 Debug|Encoding resource 24...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2266,7 +2424,7 @@ Trace|Width: 5, Height: 48, RowLength: 5
 Trace|BPP: 8, PaletteColors: 67, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 25 offset is 41638...
+Trace|Resource 25 offset is 42221...
 Debug|Encoding resource 25...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2342,7 +2500,7 @@ Trace|Width: 5, Height: 43, RowLength: 5
 Trace|BPP: 8, PaletteColors: 66, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 26 offset is 42133...
+Trace|Resource 26 offset is 42716...
 Debug|Encoding resource 26...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2391,7 +2549,7 @@ Trace|Width: 5, Height: 37, RowLength: 5
 Trace|BPP: 8, PaletteColors: 39, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 27 offset is 42490...
+Trace|Resource 27 offset is 43073...
 Debug|Encoding resource 27...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2417,7 +2575,7 @@ Trace|Width: 5, Height: 38, RowLength: 3
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 28 offset is 42684...
+Trace|Resource 28 offset is 43267...
 Debug|Encoding resource 28...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2445,7 +2603,7 @@ Trace|Width: 5, Height: 39, RowLength: 5
 Trace|BPP: 8, PaletteColors: 18, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 29 offset is 42967...
+Trace|Resource 29 offset is 43550...
 Debug|Encoding resource 29...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2471,7 +2629,7 @@ Trace|Width: 5, Height: 39, RowLength: 3
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 30 offset is 43164...
+Trace|Resource 30 offset is 43747...
 Debug|Encoding resource 30...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2500,7 +2658,7 @@ Trace|Width: 5, Height: 39, RowLength: 5
 Trace|BPP: 8, PaletteColors: 19, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 31 offset is 43451...
+Trace|Resource 31 offset is 44034...
 Debug|Encoding resource 31...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2525,7 +2683,7 @@ Trace|Width: 5, Height: 38, RowLength: 3
 Trace|BPP: 4, PaletteColors: 15, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 32 offset is 43641...
+Trace|Resource 32 offset is 44224...
 Debug|Encoding resource 32...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2574,7 +2732,7 @@ Trace|Width: 5, Height: 37, RowLength: 5
 Trace|BPP: 8, PaletteColors: 39, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 33 offset is 43998...
+Trace|Resource 33 offset is 44581...
 Debug|Encoding resource 33...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2642,7 +2800,7 @@ Trace|Width: 5, Height: 41, RowLength: 5
 Trace|BPP: 8, PaletteColors: 58, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 34 offset is 44451...
+Trace|Resource 34 offset is 45034...
 Debug|Encoding resource 34...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2730,7 +2888,7 @@ Trace|Width: 5, Height: 48, RowLength: 5
 Trace|BPP: 8, PaletteColors: 78, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 35 offset is 45019...
+Trace|Resource 35 offset is 45602...
 Debug|Encoding resource 35...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2770,7 +2928,7 @@ Trace|Width: 5, Height: 48, RowLength: 5
 Trace|BPP: 8, PaletteColors: 30, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 36 offset is 45395...
+Trace|Resource 36 offset is 45978...
 Debug|Encoding resource 36...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2809,7 +2967,7 @@ Trace|Width: 5, Height: 25, RowLength: 5
 Trace|BPP: 8, PaletteColors: 29, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 37 offset is 45652...
+Trace|Resource 37 offset is 46235...
 Debug|Encoding resource 37...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2860,7 +3018,7 @@ Trace|Width: 5, Height: 18, RowLength: 5
 Trace|BPP: 8, PaletteColors: 41, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 38 offset is 45922...
+Trace|Resource 38 offset is 46505...
 Debug|Encoding resource 38...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2887,7 +3045,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 39 offset is 46086...
+Trace|Resource 39 offset is 46669...
 Debug|Encoding resource 39...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2907,7 +3065,7 @@ Trace|Width: 6, Height: 10, RowLength: 3
 Trace|BPP: 4, PaletteColors: 10, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 40 offset is 46172...
+Trace|Resource 40 offset is 46755...
 Debug|Encoding resource 40...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2940,7 +3098,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 23, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 41 offset is 46360...
+Trace|Resource 41 offset is 46943...
 Debug|Encoding resource 41...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -2979,7 +3137,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 29, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 42 offset is 46572...
+Trace|Resource 42 offset is 47155...
 Debug|Encoding resource 42...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3011,7 +3169,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 22, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 43 offset is 46756...
+Trace|Resource 43 offset is 47339...
 Debug|Encoding resource 43...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3051,7 +3209,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 30, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 44 offset is 46972...
+Trace|Resource 44 offset is 47555...
 Debug|Encoding resource 44...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3089,7 +3247,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 28, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 45 offset is 47180...
+Trace|Resource 45 offset is 47763...
 Debug|Encoding resource 45...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3127,7 +3285,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 28, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 46 offset is 47388...
+Trace|Resource 46 offset is 47971...
 Debug|Encoding resource 46...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3162,7 +3320,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 25, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 47 offset is 47584...
+Trace|Resource 47 offset is 48167...
 Debug|Encoding resource 47...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3201,7 +3359,7 @@ Trace|Width: 8, Height: 10, RowLength: 8
 Trace|BPP: 8, PaletteColors: 29, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 48 offset is 47796...
+Trace|Resource 48 offset is 48379...
 Debug|Encoding resource 48...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3214,7 +3372,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 49 offset is 47884...
+Trace|Resource 49 offset is 48467...
 Debug|Encoding resource 49...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3227,7 +3385,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 50 offset is 47972...
+Trace|Resource 50 offset is 48555...
 Debug|Encoding resource 50...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3240,7 +3398,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 51 offset is 48060...
+Trace|Resource 51 offset is 48643...
 Debug|Encoding resource 51...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3253,7 +3411,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 52 offset is 48148...
+Trace|Resource 52 offset is 48731...
 Debug|Encoding resource 52...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3266,7 +3424,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 53 offset is 48236...
+Trace|Resource 53 offset is 48819...
 Debug|Encoding resource 53...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3279,7 +3437,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 54 offset is 48324...
+Trace|Resource 54 offset is 48907...
 Debug|Encoding resource 54...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3292,7 +3450,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 55 offset is 48412...
+Trace|Resource 55 offset is 48995...
 Debug|Encoding resource 55...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3305,7 +3463,7 @@ Trace|Width: 20, Height: 12, RowLength: 5
 Trace|BPP: 2, PaletteColors: 3, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 56 offset is 48500...
+Trace|Resource 56 offset is 49083...
 Debug|Encoding resource 56...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3331,7 +3489,7 @@ Trace|Width: 60, Height: 14, RowLength: 30
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 57 offset is 49000...
+Trace|Resource 57 offset is 49583...
 Debug|Encoding resource 57...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3358,7 +3516,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 58 offset is 49924...
+Trace|Resource 58 offset is 50507...
 Debug|Encoding resource 58...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3385,7 +3543,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 59 offset is 50848...
+Trace|Resource 59 offset is 51431...
 Debug|Encoding resource 59...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3412,7 +3570,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 60 offset is 51772...
+Trace|Resource 60 offset is 52355...
 Debug|Encoding resource 60...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3438,7 +3596,7 @@ Trace|Width: 60, Height: 14, RowLength: 30
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 61 offset is 52272...
+Trace|Resource 61 offset is 52855...
 Debug|Encoding resource 61...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3465,7 +3623,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 62 offset is 53196...
+Trace|Resource 62 offset is 53779...
 Debug|Encoding resource 62...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3492,7 +3650,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 63 offset is 54120...
+Trace|Resource 63 offset is 54703...
 Debug|Encoding resource 63...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3518,7 +3676,7 @@ Trace|Width: 60, Height: 14, RowLength: 30
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 64 offset is 54620...
+Trace|Resource 64 offset is 55203...
 Debug|Encoding resource 64...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3545,7 +3703,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 65 offset is 55544...
+Trace|Resource 65 offset is 56127...
 Debug|Encoding resource 65...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3572,7 +3730,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 66 offset is 56468...
+Trace|Resource 66 offset is 57051...
 Debug|Encoding resource 66...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3599,7 +3757,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 67 offset is 57392...
+Trace|Resource 67 offset is 57975...
 Debug|Encoding resource 67...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3625,7 +3783,7 @@ Trace|Width: 60, Height: 14, RowLength: 30
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 68 offset is 57892...
+Trace|Resource 68 offset is 58475...
 Debug|Encoding resource 68...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3652,7 +3810,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 69 offset is 58816...
+Trace|Resource 69 offset is 59399...
 Debug|Encoding resource 69...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3679,7 +3837,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 70 offset is 59740...
+Trace|Resource 70 offset is 60323...
 Debug|Encoding resource 70...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3705,7 +3863,7 @@ Trace|Width: 60, Height: 14, RowLength: 30
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 71 offset is 60240...
+Trace|Resource 71 offset is 60823...
 Debug|Encoding resource 71...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3732,7 +3890,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 72 offset is 61164...
+Trace|Resource 72 offset is 61747...
 Debug|Encoding resource 72...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3759,7 +3917,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 73 offset is 62088...
+Trace|Resource 73 offset is 62671...
 Debug|Encoding resource 73...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3786,7 +3944,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 74 offset is 63012...
+Trace|Resource 74 offset is 63595...
 Debug|Encoding resource 74...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3812,7 +3970,7 @@ Trace|Width: 60, Height: 14, RowLength: 30
 Trace|BPP: 4, PaletteColors: 16, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 75 offset is 63512...
+Trace|Resource 75 offset is 64095...
 Debug|Encoding resource 75...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3839,7 +3997,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 76 offset is 64436...
+Trace|Resource 76 offset is 65019...
 Debug|Encoding resource 76...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3866,7 +4024,7 @@ Trace|Width: 60, Height: 14, RowLength: 60
 Trace|BPP: 8, PaletteColors: 17, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 77 offset is 65360...
+Trace|Resource 77 offset is 65943...
 Debug|Encoding resource 77...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3878,7 +4036,7 @@ Trace|Width: 13, Height: 13, RowLength: 4
 Trace|BPP: 2, PaletteColors: 2, Transaparency: 1
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 78 offset is 65436...
+Trace|Resource 78 offset is 66019...
 Debug|Encoding resource 78...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
@@ -3917,7 +4075,7 @@ Trace|Width: 12, Height: 12, RowLength: 12
 Trace|BPP: 8, PaletteColors: 29, Transaparency: 0
 Trace|Writing palette...
 Trace|Writing image...
-Trace|Resource 79 offset is 65712...
+Trace|Resource 79 offset is 66295...
 Debug|Encoding resource 79...
 Trace|Writing image in Palette mode
 Trace|Extracting palette...
