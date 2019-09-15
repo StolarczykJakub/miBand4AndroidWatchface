@@ -1,0 +1,244 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Status": {
+  "DoNotDisturb": {
+      "Coordinates": {
+        "X": 4,
+        "Y": 5,
+        "BoxWidth": 17,
+        "Alignment": "Left",
+        "Order": 1
+      },
+      "ImageIndexOn": 81
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 21,
+        "Y": 5,
+        "BoxWidth": 17,
+        "Alignment": "Left",
+        "Order": 1
+      },
+      "ImageIndexOn": 82
+    },
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 38,
+        "Y": 5,
+        "BoxWidth": 12,
+        "Alignment": "Left",
+        "Order": 1
+      },
+      "ImageIndexOff": 80
+    },
+    "Battery": {
+      "BatteryConfig": {
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "Text": {
+        "TopLeftX": 32,
+        "TopLeftY": 6,
+        "BottomRightX": 79,
+        "BottomRightY": 13,
+        "Alignment": "TopRight",
+        "Spacing": 0,
+        "ImageIndex": 41,
+        "ImagesCount": 10
+      },
+      "Icon": {
+        "X": 96,
+        "Y": 5,
+        "ImageIndex": 51,
+        "ImagesCount": 8
+      }
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 17,
+        "Y": 29,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 36,
+        "Y": 29,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 65,
+        "Y": 29,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 84,
+        "Y": 29,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Date": {
+	"WeekDay": {
+		"X": 8,
+		"Y": 78,
+		"ImageIndex": 59,
+		"ImagesCount": 21
+	},
+    "MonthAndDay": {
+      "Separate": {
+        "Day": {
+          "TopLeftX": 72,
+          "TopLeftY": 78,
+          "BottomRightX": 31,
+          "BottomRightY": 84,
+          "Alignment": "TopRight",
+          "Spacing": 0,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        },
+		"Month": {
+          "TopLeftX": 92,
+          "TopLeftY": 78,
+          "BottomRightX": 51,
+          "BottomRightY": 84,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
+          "ImageIndex": 11,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    }
+  },
+   "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 36,
+        "TopLeftY": 142,
+        "BottomRightX": 84,
+        "BottomRightY": 171,
+        "Alignment": "Center",
+        "Spacing": 0,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 33,
+        "TopLeftY": 119,
+        "BottomRightX": 47,
+        "BottomRightY": 131,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 11
+    },
+    "Distance": {
+      "Number": {
+        "TopLeftX": 70,
+        "TopLeftY": 119,
+        "BottomRightX": 111,
+        "BottomRightY": 131,
+        "Alignment": "TopCenter",
+        "Spacing": 0,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      },
+      "SuffixImageIndex": 84,
+      "DecimalPointImageIndex": 83
+    }
+  },
+  "StepsProgress": {
+    "Linear": {
+      "StartImageIndex": 24,
+      "Segments": [
+        {
+          "X": 18,
+          "Y": 189
+        },
+        {
+          "X": 22,
+          "Y": 186
+        },
+        {
+          "X": 27,
+          "Y": 162
+        },
+        {
+          "X": 32,
+          "Y": 162
+        },
+        {
+          "X": 37,
+          "Y": 167
+        },
+        {
+          "X": 42,
+          "Y": 173
+        },
+        {
+          "X": 47,
+          "Y": 172
+        },
+        {
+          "X": 52,
+          "Y": 171
+        },
+        {
+          "X": 57,
+          "Y": 171
+        },
+        {
+          "X": 62,
+          "Y": 171
+        },
+        {
+          "X": 67,
+          "Y": 172
+        },
+        {
+          "X": 72,
+          "Y": 173
+        },
+        {
+          "X": 77,
+          "Y": 169
+        },
+        {
+          "X": 82,
+          "Y": 162
+        },
+        {
+          "X": 87,
+          "Y": 162
+        },
+        {
+          "X": 92,
+          "Y": 185
+        },
+        {
+          "X": 97,
+          "Y": 192
+        }
+      ]
+    }
+  }
+}
