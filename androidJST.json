@@ -131,7 +131,7 @@
         "TopLeftX": 36,
         "TopLeftY": 142,
         "BottomRightX": 84,
-        "BottomRightY": 171,
+        "BottomRightY": 161,
         "Alignment": "Center",
         "Spacing": 0,
         "ImageIndex": 11,
@@ -140,10 +140,8 @@
     },
     "Pulse": {
       "Number": {
-        "TopLeftX": 33,
-        "TopLeftY": 119,
-        "BottomRightX": 47,
-        "BottomRightY": 131,
+        "TopLeftX": 70,
+        "TopLeftY": 109,
         "Alignment": "TopLeft",
         "Spacing": 0,
         "ImageIndex": 11,
@@ -151,6 +149,7 @@
       },
       "NoDataImageIndex": 11
     },
+	/** Remove because of lack of space and proper margins
     "Distance": {
       "Number": {
         "TopLeftX": 70,
@@ -164,7 +163,7 @@
       },
       "SuffixImageIndex": 84,
       "DecimalPointImageIndex": 83
-    }
+    } **/
   },
   "StepsProgress": {
     "Linear": {
